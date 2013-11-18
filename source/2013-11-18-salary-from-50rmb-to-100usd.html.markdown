@@ -1,5 +1,5 @@
 ---
-title: "我的薪水如何从 50人民币/天 到 100美元/小时的 (1)"
+title: "我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)"
 date: 2013-11-18 09:23 +08:00
 tags: soho, remote, work, freelance
 author: terry
