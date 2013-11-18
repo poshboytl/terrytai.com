@@ -15,13 +15,18 @@ $headingsFontWeight:    bold !default;    // instead of browser default, bold
 $headingsColor:         inherit !default; // empty to use BS default,
 
 /* Colors */
-$textColor:             #001d33;
-$linkColor:             #3172A5;
-$sidebarLinkColor: 		#d8ab36;
-$asideColor: #aaa591;
+$textColor:             #18161a;
+$linkColor:             #443C79;
+$sidebarLinkColor: 		#c490cb;
+$sidebarLinkHoverColor: #da76bb;
+$asideColor: #756d80;
+$siteNameColor: #d8ab36;
 
-$sidebarBgColor: #203240;
-$mainBgColor: #f2eee1;
+$sidebarBgColor: #341952;
+$mainBgColor: #F3EEF0;
+
+$postTitleColor: #443c79;
+$hairLineColor: #DDD8CC;
 
 /* Gutters */
 $sideWidth: 80px;

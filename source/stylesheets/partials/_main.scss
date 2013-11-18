@@ -3,7 +3,7 @@
     font-size: 16px;
     margin: 0 0 2.8em 0;
     padding: 0 0 2em $asideWidth;
-    border-bottom: 1px solid #DDD8CC;
+    border-bottom: 1px solid $hairLineColor;
     @include clearfix;
 
     .back-link {
