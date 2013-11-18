@@ -9,7 +9,7 @@ author: terry
 
  ![zealot.jpg](http://user-image.logdown.io/user/4013/blog/4068/post/159936/xgv3ePk5SPmn4anwN94F_zealot.jpg)
  
-故事开始是在差不多六年前, 那时我还在大学, 和大多的学生一样, 每天玩玩星际, 打打篮球, 看看妹纸, 当然也帮系里写写程序(Java). 同样和大多数无知的学生一样, 都会犯一些认识上的错误, 我当时真的认为 Java 很酷。
+故事开始是在差不多六年前, 那时我还在大学, 和大多的学生一样, 每天玩玩星际, 打打篮球, 看看妹纸, 当然也帮系里写写程序(Java). 同样和大多数无知的学生一样, 都会犯一些认识上的错误, 比如, 我当时真的认为 Java 很酷。
  
 直到有一天，不经意的看到一个视频 是 [DHH 用 Ruby on Rails 15分钟建立Blog的视频](http://www.youtube.com/watch?v=Gzj723LkRJY) （不能访问youtube的朋友可以看 [youku 上的版本](http://v.youku.com/v_show/id_XMzA5MTYxNTY=.html) ), 我被这个视频深深的震撼了, 实在是太cool了, 连续播放了5, 6次, 注意观察着每一个细节, 从操作系统, 到编辑器, 到每一行代码和命令, 一切都是那么陌生而又新奇...（如果我没记错，我第一次看爱情动作片的时候都没有这么仔细和认真）。
  
