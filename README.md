@@ -1,9 +1,11 @@
-Bin He's Blog/Portfolios
+Terry Tai's Blog
 ========================
-http://beenhero.com
+[terrytai.com](http://terrytai.com)
 
-When the time paased, only the 'print'(now binary) left.
+This blog is created by [Middleman](http://middlemanapp.com/).
 
-Leave something in the time space.
+It open source under MIT License.
 
-The ~/bin theme will be released as Jekyll/Middleman theme, stay tuned.
+Thanks to our desiner [Ben] [http://beenhero.com] for helping me create and design this site.
+
+Keep rocking!
