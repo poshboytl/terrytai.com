@@ -14,10 +14,10 @@
 
 <% wrap_layout :layout do %>
 
-  <div class="annoucement">
+  <div class="announcement">
     <p>
       <% if yield_content(:announcement).blank? %>
-        <%= partial 'shared/annoucement' %>
+        <%= partial 'shared/announcement' %>
       <% else %>
         <%= yield_content (:announcement) %>
       <% end %>
