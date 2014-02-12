@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]<!-->
+<html class="no-js" lang="en">
+  <!--<![endif]-->
+  <head>
+    <meta charset="UTF-8">
+
+    <title>
+      Terr Tai's Blog
+    </title>
+
+    <meta name="description" content="Terry Tai is on his way!">
+    <meta name="keywords" content="Journal,Lifelog,Photography,Portfolios">
+    <meta name="author" content="poshboytl">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="57x57" href="/apple-touch-icon-57x57-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" type="image/png" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" type="image/png" href="/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon.png">
+
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon.png">
+    <link rel="shortcut icon" sizes="16x16" href="/favicon.ico">
+    <link rel="alternate" type="application/rss+xml" title="Terr Tai's Homepage" href="/feed.xml" />
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link href="/stylesheets/application.css?1392187463" media="screen" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/application.js?1392187462" type="text/javascript"></script>
+
+  </head>
+  <body class="tags tags_require tags_require_index">
+    <aside class="sidebar">
+      <h1 class="site-name"><a href="/">Terry</a></h1>
+      <nav class="global-nav">
+        <ul>
+          <li><a href="/">Posts</a></li>
+          <li><a href="#TODO">Photos</a></li>
+          <li><a href="/profile">Profile</a></li>
+        </ul>        
+      </nav>
+
+      <nav class="social-connect">
+        <ul>
+          <li><a href="//weibo.com/poshboytl"><i class="icon-weibo"></i></a></li>
+          <li><a href="//twitter.com/poshboytl"><i class="icon-twitter"></i></a></li>
+          <li><a href="//facebook.com/terry.tai.man"><i class="icon-facebook"></i></a></li>
+          <li><a href="/rss.xml"><i class="icon-rss"></i></a></li>
+        </ul>
+      </nav>
+      
+      <!-- Ad -->
+      <div class="block ad">
+        <h4 class="block-title"><a href="//pragmatic.ly/">Pragmatic.ly</a></h4>
+        <p class="block-cnt">团队协作工具</p>
+      </div>
+
+    </aside>
+
+    <section class="main">
+      <div class="container">
+        <h1 class="tag-page-title">Articles tagged '<em>require</em>'</h1>
+
+<div id="posts">
+  
+    <article class="post">
+      <header>
+  <h2 class="title">
+    <a href="/ruby-basics-how-to-faux-require-and-load">Ruby 基础篇之如何山寨 require 和 load</a>
+  </h2>
+</header>
+
+<aside class="aside-block">
+  <ul class="meta">
+    <!-- <li class="author-photo">
+      <a href="http://terrytai.com">
+        <img src="/images/terrytai.png?1392187460" />
+      </a>
+    </li>
+    <li class="author">
+     by Terry Tai
+    </li> -->
+    <li class="date">
+      Apr 26, 2013
+    </li>
+    <li class="tags">
+      
+        <a href="/tags/ruby">ruby</a>
+      
+        <a href="/tags/require">require</a>
+      
+        <a href="/tags/load">load</a>
+      
+    </li>
+  </ul>
+</aside>
+
+<div class="content">
+  <p><img src="https://writingsio.s3.amazonaws.com/attachments/517a53014017a4561a000230/bfb3a2863ae41f9a84f92846d787e5b8/shanzhai.jpg" /></p>
+
+<p>前几天被一个初学 Ruby 的同学问及 require 和 load 有什么区别。后来想想这个问题虽然答案并不难，但是还可以引申出不少可以探讨的内容。所以我打算通过山寨一个 require 和 load 的方法的形式，来阐述一些内容。</p>
+
+<p>在开始之前我们首先假设我们有一个 person.rb 文件，内容如下:</p>
+
+<pre><code>class Person
+
+  attr_reader :name, :age
+
+  def initialize(name, age)
+    @name = name
+    @age = age
+  end
+
+  def to_s
+    &quot;My name is #{name} and I&#39;m #{age} years old!&quot;
+  end
+
+end
+
+person = Person.new(&quot;金将军&quot;, 30)
+puts person.to_s  
+</code></pre>
+
+<h2>先来山寨 load</h2>
+
+<p>先让我们来做做试验。</p>
+
+<pre><code># -*- coding: utf-8 -*-
+# try_load_require.rb
+
+load &#39;./person.rb&#39;
+load &#39;./person.rb&#39;
+
+$ ruby try_load_require.rb
+My name is 金将军 and I&#39;m 30 years old!
+My name is 金将军 and I&#39;m 30 years old!
+</code></pre>
+
+
+  <p>
+    ......
+  </p>
+  <p>
+    <a href="/ruby-basics-how-to-faux-require-and-load">阅读全文 →</a>
+  </p>
+</div>
+
+    </article>
+  
+  
+  
+    <ul class="pager">
+      
+      
+    </ul>
+  
+</div>
+
+      </div>
+    </section>
+    
+    <footer>
+      <div class="copyright">
+        <p>&copy;2013 Terry Tai</p>
+      </div>
+    </footer>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-103363-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+  </body>
+</html>

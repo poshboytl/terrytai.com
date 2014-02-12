@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <id>http://terrytai.com</id>
+    <title>Terr Tai's Blog</title>
+    <link>http://terrytai.com</link>
+    <language>zh-cn</language>
+    <copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2013 Terry Tai</copyright>
+    <link href="http://terrytai.com"/>
+    <link href="http://terrytai.com/rss.xml" rel="self"/>
+    <updated>2014-02-12T03:00:00Z</updated>
+    <lastBuildDate>2014-02-12T03:00:00Z</lastBuildDate>
+    <pubDate>2014-02-12T03:00:00Z</pubDate>
+    <description>Terry Tai is on his way!</description>
+    <author>
+      <name>Terry Tai</name>
+    </author>
+    <item>
+      <title>我如何把薪水从 50人民币/天 提升到 100美元/小时的 (3)</title>
+      <link>http://terrytai.com/salary-from-50rmb-to100usd-3</link>
+      <description type="html">&lt;p&gt;&lt;img alt="roushan.jpg" src="/images/roushan.jpg?1392187460" /&gt;&lt;/p&gt;
+
+&lt;p&gt;那之后的实习时间过得很充实，每天基本都会有新的挑战，然后再绞尽脑汁解决它们。每天都像在打boss，有大有小，理所当然经验值也在迅速的增长。这样的时光一直持续到这个项目快结束的时候。那时挑战感觉明显下降，一方面是技能上已经比较熟练，另一方面项目上也没有什么新的技术的引入，基本是 bug fix 和微调为主。不知是被虐惯了还是怎么的，突然的轻松下来让我非常不习惯。&lt;/p&gt;
+
+&lt;p&gt;于是我想利用那段时间把毕业设计搞了，其实毕业设计的东西我已经在学习 Ruby on Rails 的时候写的差不多了, 只是经过了这么久的实习觉得当时很多地方代码写的还不够好，所以想把它重构一下。因此也给老板提出每周只上三天班，其他时间就留在学校做毕业设计。&lt;/p&gt;
+
+&lt;p&gt;在学校准备毕业设计期间，一个偶然的机会遇到了以前教我Java的严老师。于是聊到了我实习期间一些情况，当时我对Rails大加赞赏，并和他讨论了不少细节，想说明这是一个真的不错的技术。他也听得津津有味，觉得很感兴趣，特别是对它的开发效率，所以他也在考虑是不是可以在自己的项目里用一用, 也会推荐他的学生看一看。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="mala.jpg" src="/images/mala.jpg?1392187460" /&gt;&lt;/p&gt;
+
+&lt;p&gt;说来也巧那天刚聊完我回到寝室，就有几个同学和几个学弟来找我，听说我实习一直在做 Rails 开发，希望我能教教他们Rails。我当时很爽快的答应了，一方面是因为那段时间也相对轻松，另一方面，我倒是也想考验一下自己，是不是可以把一个自己知道的东西清楚的讲给他人听。何况能帮助到几个朋友了解一门我喜欢的技术那也算是一件不错的事情。当时我一直觉得自己从Rails社区索取太多，但是贡献不够。所以也把这一次的事情当成了一个回馈。谁知后来这事一传十，十传百，想要加入一起学习的同学越来越多，所以整个学习小组一起学习时看起来就像一个班在上课一样。&lt;/p&gt;
+
+&lt;p&gt;没过几天这事就传到了系主任耳边，然后请我去他办公室一趟，我当时还有点疑惑，心想这是聚众学习，又不是聚众其它，应该不违反什么学校规定吧？难道是因为偷偷用教室的投影仪播放视频？但是也都是播的正规的啊！脑子里冒着无数问号来到系主任办公室。&lt;/p&gt;
+
+&lt;p&gt;我： “张主任好。”
+张主任：“坐！”
+我： “张主任找我有什么事吗？”
+张主任： “听说你在私下组织上课？” （怎么听都感觉我是个搞传销的）
+我：“是的，但是其实也不能叫上课，是一个学习小组。我也是义务工作的，教大家学习一下 Ruby和Rails.”
+张主任：“恩，你知道你上课的时间和四门选修课的时间都重了吗？导致你班上的人接近一半的人都是逃课去的？”
+我霍然开朗，原来是因为这个事情来找我。&lt;/p&gt;
+
+&lt;p&gt;我立马解释道：“这个我还真没注意到，我们可以换时间的。”
+张主任：“不用了...” （我擦，一听就是要解散我们秘密组织的节奏）
+他停顿了一下十分从容的从旁边拿出一张纸，并递到我手上。（难道是要我写保证书？）
+并接着说：“很多同学给我反应非常喜欢你这个课，说能学到很多实际的东西。以后你就把这个当课上吧，我可以提供给每个通过的学生两个选修学分。这是考勤表和成绩表，你还是要严格考情和考试，要及格的人才能获得这两个学分。还有你这样的实践课不要在普通的教室上了，我给你安排了机房，以后就在机房上课吧，多让大家操练操练，你选出一个班长，然后让他来负责安装机房的环境，并且关门开门就行了。还有，你以后在这个学校又是学生又是老师了，这在很多学校都是不可能的，也不要有太大的压力，我相信你能做好。”&lt;/p&gt;
+
+&lt;p&gt;我听了张主任这一席话，眼泪差点没掉下来，嘴里半天憋不出来一个字... &lt;/p&gt;
+
+&lt;p&gt;其实现在想想这个事情还觉得蛮不可思议的，特别是在中国...
+前不久还在 google docs里看到当时学生的名单，感慨万千。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="facebook.png" src="/images/facebook.png?1392187460" /&gt;&lt;/p&gt;
+
+&lt;p&gt;那之后生活又回归了以前的充实，努力的备课，努力的上课，努力的上班，努力搞毕业设计... 不同的是，脑子里不是只有一件事情了，而是每天都有三件事情需要我去做好。这个过程我还很花了一些时间来平衡。但是想想现在同时有三件事情都算是轻松的了，不得不说那次的锻炼还是挺有帮助的。&lt;/p&gt;
+
+&lt;p&gt;那段时间我发现一个非常有意思的现象，就是要把你已经懂的东西讲得让别人也懂并不是一件容易的事情。而把别人讲懂的过程实际上也是一种再次学习的过程，也是更加深入理解的过程。所以多分享一些知识给别人绝对也是对自己很有帮助的事情，分享在我看来是一个利己利人的行为，这也是为什么我后来&lt;strong&gt;&lt;a href="http://terrytai.com/"&gt;写文章&lt;/a&gt;&lt;/strong&gt;，&lt;strong&gt;&lt;a href="http://railscasts-china.com/"&gt;录视频&lt;/a&gt;&lt;/strong&gt;，&lt;strong&gt;&lt;a href="http://teahour.fm/"&gt;做podcast&lt;/a&gt;&lt;/strong&gt; 分享我知道的知识。&lt;/p&gt;
+
+&lt;p&gt;等那个课程结束也差不多是毕业前夕了，我继续回到了以前的公司全职的上班。不久也被提升为了当时Ruby组的 leader，还要负责当时的技术面试和新人培养。工资也给开了 4000 人名币/月。 这在那时的成都可是一个相当不错的价格了，而且那也算是我的第一次晋升，按理我应该高兴才对。但我却怎么也高兴不起来，工作没有以前的那种基情，哦不，激情。当然依然是保质保量的完成，只是内心中总是觉得不满足，有种撞到天花板的感觉，还有对现实还有很多不满足，或者说觉得还有很多更好的空间。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="wcg.jpg" src="/images/wcg.jpg?1392187460" /&gt;&lt;/p&gt;
+
+&lt;p&gt;正巧那段时间第一届 RubyConf China 要在上海举行。我当几乎不假思索的就定了票，而且内心有一种说不出的兴奋，这种感觉犹如一个职业选手要去参加WCG一般，让人兴奋不已，我一直想看看中国其他Ruby玩家到底是如何玩的，每天是怎么训练的, 于是找老板请三天假去上海参加这次Rubyconf. &lt;/p&gt;
+
+&lt;p&gt;老板听后没有马上同意，并打开自己的outlook看了看，转身给我说：“非常不错，我母亲就是上海人，我对上海非常熟悉，这样吧，你也不用请假了，我和你一起去，费用都由公司承担，票你帮我也定一张，我也去学习学习。这次我们过去可以多呆一段时间，我母亲在那边有一套房子，你可以和我住那里，我们可以和成都这边远程工作一段时间。”&lt;/p&gt;
+
+&lt;p&gt;Holy shit! 我已经不记得我当时的表情，但是我相信一定是非常惊讶的。 这不但是要一起旅游还是要睡在一起的节奏...&lt;/p&gt;
+
+&lt;p&gt;那次上海之行我特别想见的有4个人，Ruby语言的创始人 Matz, JavaEye 的创始人 Robbin Fan 和 财帮子的创始人  Robin Lu, 以及大会的发起人 Daniel Lv.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="matz.jpg" src="/images/matz.jpg?1392187460" /&gt;
+Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fan 和 Robin Lu 是当时中国Ruby社区里我最敬重的两位程序员 + 创业人。JavaEye 和 财帮子可谓是当时中国最大的两个用 Rails 写的网站（当时最有名的 Java 社区网站尽然是用 Ruby写的，是不是很有意思？），也是因为有这两个网站在中国才向很多人证明了，Rails 不只是玩具，他可以做大型的项目。（是的，那个年代，中国很多人的想法还停留在 Rails 就是玩具不能用于真实项目的年代。）&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="robbin.jpg" src="/images/robbin.jpg?1392187460" /&gt;
+想见他们还有一个理由是我和这两位罗宾以前还有些交情, 我大一下期（或者是大二上期，具体有点记不得了）的时候特别迷恋互联网，而且当时正是 Web 2.0 兴起的时候，我那时写过一段时间 Blog，内容主要是我对互联网和 Web 2.0的一些看法，所以取名为 &amp;quot;Terry 谈网&amp;quot;。 现在反过来看看以前自己写的内容，觉得很多想法其实挺幼稚的，不过我完全不后悔做了这事，因为至少我看到了自己以前的幼稚和后来的进步。 写了段时间后，发现自娱自乐已经不能满足我了，于是我想通过这个 Blog 认识更多志同道合的朋友（其实都应该算是前辈），和他们一起玩儿。所以我后来大多采用了采访的形式来写blog， 主要是采访业界一些不错的 Web 2.0网站的站长。 两位罗宾就是我采访过的对象，记得当时给这两位发邀请邮件之前心里都泛着嘀咕，“我一个屁学生，别人肯定都懒得搭理我。” ... 但是最终我还是说服自己去试试，毕竟如果失败了，我也没什么损失啊。（后来想想这个和追女生其实是一个道理嘛）&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="robin.jpg" src="/images/robin.jpg?1392187460" /&gt;&lt;/p&gt;
+
+&lt;h1&gt;关于 Robin Lu&lt;/h1&gt;
+
+&lt;p&gt;对于这个 Robin  Lu 可能很多社区里的新人都不认识他。因为他现在有点隐士的味道了，很少在社区里出现，连网上发言也少了，他最后发布的一个开源项目也大概是四年前了。当时他在网上那可以说是相当活跃的，无论是写文，发推还是开源项目。也是因为看了他很多东西，让我非常欣赏他。他曾今在 Sun 和微软都就职过，后来出来和朋友创业，开发了当时大名鼎鼎的财帮子并创立了他们自己的咨询公司。 总而言之我当时是非常敬重这个人，而这一次去有个很重要的任务是我要当面给他道歉。&lt;/p&gt;
+
+&lt;h1&gt;我和 Robin 不得不说的故事：&lt;/h1&gt;
+
+&lt;p&gt;那是一个月黑风高晚上，是我刚采访了 Robin Lu 的第二天晚上，而那几天正好是我将要和我的小伙伴去参加一个由成都信息工程学院组织的黑客大赛。那天晚上我正好在准备一些比赛要用的黑客工具，其中一个是我自己试着写的 SQL 注入侦测脚本。好不容易完工，还在学校教务网站试用了一把(登成绩的网站)，成功找到漏洞，并把自己加入到管理员里，然后又立即把自己的帐号删除了。我就是试试是否能提权成功，还真没打算干什么坏事。 当时我也在学习 Rails, 也特别好奇 Rails 这个框架的安全性如何，正好那天又采访了Robin Lu，所以想用“财帮子”一试究竟， 于是就用我的性感小脚本在上面跑了一跑。结果没发现任何注入漏洞，我心里还暗喜，觉得 Rails 蛮安全性还是挺好的。（当然，这和写的人关系也很大。）&lt;/p&gt;
+
+&lt;p&gt;谁知道第二天一开电脑，就收到了 Robin Lu的来信，信的内容大概是说，从日志中看到了我的行为，并表示没想到我采访他是为了要黑掉他们的网站... 而且坚定把我认为是一个黑客。&lt;/p&gt;
+
+&lt;p&gt;毫不夸张的说我边看那封信，眼泪哗哗的流。这种感觉很委屈，而且比被女朋友栽赃和某某女性朋友有一腿来得更让我不痛快。我记得当时我回了一封很长的信做解释，但是对方并没有再回，而且把我从gtalk上删除了。（看来和这个小伙伴以后没有办法一起愉快的玩耍了！）这件事情一直困扰我很久，所以我想利用这次上海之行给他当面道歉并解释清楚。&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="daniel.jpeg" src="/images/daniel.jpeg?1392187460" /&gt;&lt;/p&gt;
+
+&lt;p&gt;见 Daniel Lv 是因为我知道他是上海 Rails 社区的组织者，我想从他那里学习一下如何组织社区活动，想到成都来也组织组织活动，心想我们大成都当时虽然用 Rails 的少，但是组织一桌麻将的人总还是够的吧。&lt;/p&gt;
+
+&lt;p&gt;而 Daniel 同学后来成为我同事加超级好的基友（一起睡过那种），说起来那次在上海之行就是我们的初次见面，现在回想起来就如同昨天一般。&lt;/p&gt;
+
+&lt;p&gt;那次上海之行真可以说是亮瞎我的氪金狗眼，长这么大还是第一次见到这么多搞 Ruby/Rails 的人聚在一起。聊了很多有意思的话题，同时也找到自己很多的差距。我知道自己还有很长的路要走，而要变得更优秀，我必须要和这些优秀的人一起工作。&lt;/p&gt;
+
+&lt;p&gt;所以那次回成都不久我就决定要换工作了，我打算背起我的小书包，带上我的真钞，去上海找一个有更多优秀的人的地方工作(东莞去不了了)。决定那天我还在推上发了一贴。结果 Daniel 同学尽然看到了， 然后回复了我 “这种事情可不好在推特上说，你前雇主看到可不好，你gtalk是什么？我和你私聊一下...” 
+(后面的精彩内容我们就下回分解啦)&lt;/p&gt;
+
+&lt;h3&gt;总结&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;多分享自己知道知识
+分享绝对是利人利己的行为，利人相信很容易理解，而利己主要是在于这是最好的建立你reputation的方式，而且也有助于巩固你已经学到的知识。
+关于形式我觉得都可以尝试，教别人也好，博客也好，视频也好，写书也好, 公众帐号也好， 微博也好。不要觉得自己还没有准备好，因为你不去做或许你永远都等不到准备好的那一天。我大一就敢写互联网观察相关的文章了，说实话我现在回忆起来都很佩服我当时的勇气，但是我真的做了，虽然很多观点现在想想都很稚嫩，但是我的确因此认识了很多对我很重要的朋友。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;即使在你工作缺乏激情的情况，除非里选择马上离开，否则你依然要保质保量的完成你的工作, 这才是一个写软件的人应有的专业态度。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;想尽一切办法和更优秀的人一起工作，即使你可能只能当凤尾。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;找到你的社区，加入他们，参加他们的活动。同一个社区的人总是有某种程度的相似性，你很容易认识那些和你有 common sense 的人。相信我这些人将在你未来的职业生涯里起到举足轻重的作用。&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;研究黑客技术的时候，千万别找认识的人的站或电脑下手，最好自己搭个站来玩，避免引起不必要的误会. &amp;gt;.&amp;lt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      <guid>tag:terrytai.com,article.url</guid>
+      <pubDate>2014-02-12T03:00:00Z</pubDate>
+      <category>soho, remote, work, freelance, conference, teaching</category>
+    </item>
+    <item>
+      <title>我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)</title>
+      <link>http://terrytai.com/salary-from-50rmb-to-100usd-2</link>
+      <description type="html">&lt;p&gt;&lt;img alt="Monroe.jpg" src="/images/Monroe.jpg?1392187460" /&gt;&lt;/p&gt;
+
+&lt;p&gt;接上篇: &lt;a href="/salary-from-50rmb-to-100usd"&gt;我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;那次重构比我想象的快了不少，也就持续了两个来月. 当时整个项目的代码和流程都已经发生了翻天覆地的变化, 就给一些简单的数据吧, model的代码行数从之前的几十行变成了6000多行, 现在想想都疑惑之前这么多代码都堆积在哪里的? 测试的代码也从几十行提升到了 10000多行, 测试覆盖率也从之前的0提升到了80%多. 只看行数可不行, 我们得说说比例. 代码和测试的比例大概在 1:1, 从比例上来看, 还算是比较匀称的.&lt;/p&gt;
+
+&lt;p&gt;匀称? 怎么感觉是在说身材? 其实硬要这么比喻, 也是恰当的.&lt;/p&gt;
+
+&lt;p&gt;你可以把这个比例理解为女孩子胸围比臀围, 大概 1:1 是非常匀称的, 如果接近 1:2 那么已经说明你有过度测试可能, 从另外一个角度看, 说明臀部过大(或者说胸部过小). 如果已经达到了 1:3, 那么请你尽快咨询好最佳逃脱路线, 不然这一屁股坐下来后果不堪设想...&lt;/p&gt;
+
+&lt;p&gt;说来我当时就被这一屁股坐过, 死得很惨. 那时我追求所谓的测试覆盖率100%, 严重拖延了开发进度, 导致新版本没有如期发布.
+后来被客户怪罪, 还牵连了 Tim. Tim 倒是没有怪我, 但指出了我过度测试的地方, 让我以后注意.&lt;/p&gt;
+
+&lt;p&gt;并且告诉我, 好的工程师不是只会&amp;quot;追求极致&amp;quot;, 而是懂得如何在 &amp;quot;质量&amp;quot; 和 &amp;quot;成本&amp;quot; 上 make a right trade-off.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="focus.jpg" src="/images/focus.jpg?1392187460" /&gt;&lt;/p&gt;
+
+&lt;p&gt;现在回忆起来, 这两个来月我是幸福的, 第一次体会到这种百分之百专注在一件事情上的快乐. 从早上一睁眼就无时无刻不在思考项目上的问题, 我的修改是不是让代码变得更好了? 这个地方如何抽取? 为什么先写测试会帮助我做出更好的设计? 为什么预计到变化这么大, 依然坚持重构而不是重写?....&lt;/p&gt;
+
+&lt;p&gt;无数大大小小深深浅浅的问题时刻盘旋在我的脑海里. 刷牙, 吃饭, 坐车, 走路, 甚至连蹲大都不放过我. 每天除了回家陪老妈瞄几分钟韩剧, 其余就没闲着过. 熬夜加班更是家常便饭, 虽然很多时候觉得自己很累, 但是看着事情一件一件做完, 自己一点一点成长, 那真是high炸天...&lt;/p&gt;
+
+&lt;p&gt;本以为事情最多也就如此了, 但是没想到我的命运总如那韩剧里男主角一般&amp;quot;祸不单行&amp;quot;...&lt;/p&gt;
+
+&lt;p&gt;记得那天也没什么不同, 早早的来到办公室准备和美国的客户以及Tim开Scrum meeting. 我们 Scrum meeting 的内容也不是很麻烦. 聊聊一些任务的状态, 不会谈太多细节. 每个人要回答三个问题:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1. What have you done yesterday?
+2. What will you work on today?
+3. Is there anything block you?
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;我的英文当时可不算好, 用一些很庸俗的形容就是我以刚刚超过6分的水平稳稳的获得了英语四级荣誉证书(而且是第一次参考取得的成绩, 后来一次比一次差). 和大多数程序员一样, 读和写还凑合, 说只能算还行, 听那简直就是灾难, 再加之是通过Skype且在这种网路速度极其不靠谱国家, 我对信息的识别率最多也就是在 50% 不到. 本来如果只是回答这几个问题也还算好, 毕竟都比较简短, 即使别人说, 我也大概能猜到每个人在说些什么. 但是这客户总是不按规矩出牌, 他特别喜欢利用这个 Scrum meeting 的时间和大家聊聊家常, 还说很多功能上的细节, 对市场以及产品的看法(这些可都是大忌). 并且我严重怀疑他每次开会之前都嚼了颗炫迈口香糖... 那简直就是停不下来, 语速还相当惊人, 伴随着牙齿摩擦出的火花声音, 噼里啪啦的从 Skype 里断断续续的传过来...&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="love_letter.jpg" src="/images/love_letter.jpg?1392187460" /&gt;&lt;/p&gt;
+
+&lt;p&gt;我承认, 每当他说话我就开始打酱油了. 不过幸好的是... 我还有他: 我的老板是个ABC(American Born Chinese), 他英文远远比中文好得多. 所以他经常会充当翻译的角色, 而且他有个极其良好的习惯, 他每次会把会议的主要内容记录下来, 并以邮件的形式发给所有的参会人员.
+每次我收到这封邮件就犹如收到情书一般的兴奋, 内心中不停的浮现出四个字: &amp;quot;有你真好.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;但有时也依赖不了这封邮件, 因为客户会在会议上直接问我问题, 让我立即回答. 比如那天:&lt;/p&gt;
+
+&lt;p&gt;客户: &amp;quot;..... Terry, XXX YYY ZZZ XXYY XXZZ .....?&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;其实从那句话里, 我基本就只听懂了开头的 &amp;quot;Terry&amp;quot;, 从而断定他在对我说, 然后从他最后的语气上扬断定他在提问题, 从句子里没有包含 &amp;quot;F*ck&amp;quot;, &amp;quot;Shit&amp;quot;... 之类的词断定他没有对我有太大不满, 至于其它的, 我几乎一无所知...&lt;/p&gt;
+
+&lt;p&gt;我当时 &amp;quot;e...&amp;quot; 了半天, 不知如何是好, 于是向我的老板 Calvin 投去了纯真且暧昧的目光, 以寻求帮助. 基友之间就是这样, 不需要太多的言语, 往往一个眼神就够了. 这招通常都非常管用, 他一般都会立即帮我做翻译. 可是那天他没有, 他把右手抬起示意我自己回答. 此时, 一股热流涌上我的眼眶, 心里默念 &amp;quot;你变了&amp;quot;.&lt;/p&gt;
+
+&lt;p&gt;正当我手足无措之际, 客户突然又说话了, 而且还是中文: &amp;quot;Terry, 你明白我说什么?&amp;quot;
+我一听心里就踏实了不少, 心想 &amp;quot;我擦, 这哥们儿懂中文? 不早说啊. 怪不得他头像看起来是个亚洲人, 估计和老板一样是ABC.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;我感觉自己看到了希望, 果断的用中文回答了一句: &amp;quot;不好意思, 我没太理解您的问题.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;客户少时停顿后说: &amp;quot;Terry, 听不懂, 听不懂. I don&amp;#39;t understand Chinese. Please speak English.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;WTF, 我当时有一种被调戏的感觉, 而且感觉无比的强烈. 不亚于我以前的女朋友(女的)给我写的约法两章:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;女朋友永远是对的.&lt;/li&gt;
+&lt;li&gt;如果出现例外情况, 请参见第1条.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;我当时忍住内心的些许不满, 用英文说了一句: &amp;quot;Sorry, would you please say it again?&amp;quot;
+于是客户用英文缓慢的重复了一下他的问题. 我才大概猜到他问的什么, 才最终做了简要的回答. 这短短20分钟的会议, 那一天显得无比的漫长...&lt;/p&gt;
+
+&lt;p&gt;收拾好东西准备起身离开会议室, 这时老板 Calvin 拍了拍我的肩膀, 深情的望着我, 还叫了我的名字. 我心想, 这是要干嘛? 刚刚那么冷淡都不帮我, 这一下又这么深情, 难道是在玩欲擒故纵?&lt;/p&gt;
+
+&lt;p&gt;老板继续道:&amp;quot;你可能留意到了, 今天整个会议我都没有怎么帮助你. 原因是我一个多月后要去美国, 在那里至少要呆上两个月, 那边我没办法每天参加Scrum meeting. 我觉得你可以独自 handle 好这个事情, right?&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;我听了后一下就傻了. 开个会我也就能听懂 50% 不到, 而且这是我自初中开始, 学习了近10年英语的结果. 这接下来就只有一个来月, 我怎么可能独自 handle 得下来. 再加之这是做软件不是搞相亲, 听个大概凑合凑合就行了. 好吧, 即使是相亲, 只听个大概很多时候都不够. 特别建议那些只喜欢白人或黑人的女性朋友: (喜欢黄种人的请忽略下一段.)&lt;/p&gt;
+
+&lt;p&gt;把国际友人时要注意, &amp;quot;house&amp;quot;和&amp;quot;apartment&amp;quot; 要分清, &amp;quot;bought&amp;quot; 和 &amp;quot;rent&amp;quot; 要分清,
+&amp;quot;guy&amp;quot; 和 &amp;quot;gay&amp;quot; 要分清, 特别的特别 &amp;quot;America&amp;quot; 和 &amp;quot;Africa&amp;quot; 要分清. 不然真如愿以偿被带走, 结果落地看到的不是自由女神, 而是自由的大象, 那多尴尬?&lt;/p&gt;
+
+&lt;p&gt;但话说回来, 当时心里忍住了想说一百个 &amp;quot;impossible&amp;quot; 的冲动, 我尽然点了点头, 然后说: &amp;quot;Let me take a try.&amp;quot; 但是心里有点发毛, 深深知道这几乎不怎么可能. 我就是这么一个喜欢&amp;quot;自虐&amp;quot;的人, 而且至今也是如此. 但是既然都答应了, 我还是要做点什么, 好让自己的英语在这一段时间里有个突飞猛进.&lt;/p&gt;
+
+&lt;p&gt;接下来的时光可谓&amp;quot;雪上加霜&amp;quot;, 首先开发上不能有任何放缓, 还需要见缝插针的恶补我的英文. 由于读和写对我来说问题不是太大, 而且即使有难度的地方也可以查词典. 所以我把精力主要是放在了听和说上, 现在来说说我采取了什么措施吧:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;看见老外就上!&lt;/p&gt;
+
+&lt;p&gt;好吧, 虽然都是看见老外就上, 但是和有些女孩子还是有所不同的. 我的目的是单纯的, 我不要房子, 不要美元, 不要生猛, 不要被带走. 我只是想要练习一下英语. 何况我通常都找同性下手, 至于异性, 我还是脸皮薄了点, 且我认为容易引起误会. 虽然同性有时候也会引起误会, 但是只要你保持一颗纯洁的内心, 这些都不是问题.&lt;/p&gt;
+
+&lt;p&gt;搭讪很需要技巧, 抓机会要上, 没机会创造机会也要上. 聊天的内容一定要由浅入深. 因为如果你只停留在打招呼, 那么你就算上了20个老外, 你依然只会和他们打招呼. 一定要聊到爱好, 工作, 行业. 问问他们是怎么工作的, 怎么解决问题的.&lt;/p&gt;
+
+&lt;p&gt;但是态度一定要好一些, 尽量把谈话的氛围搞得有趣一些, 这样更容易得到他的喜欢, 这样你才能多聊一会儿.
+千万不要因为谦虚, 说类似 &amp;quot;My English is not good.&amp;quot;, &amp;quot;Please slow down, cause my poor English.&amp;quot; 等这样的话. 原因很简单, 你如果说了, 他们会区别对待你, 不把你当英语好的人对待, 他们会降低自己的语速, 或者用更简单的表达方式. 这样就达不到更高强度练习的需求了, 而且你始终不是真正在和 native speaker交流.&lt;/p&gt;
+
+&lt;p&gt;听不懂是常会发生的, 尽量根据他前后语境去猜测, 从而推断出某些不懂的发音或者单词的意思. 或者试探性的重复或总结他的意思, 然后通过他的肯定和否定来断定自己是否猜对了. 事后一定要做一次回顾, 回顾他怎么表达的, 如果你遇到类似的情况可不可以借鉴, 如果有必要甚至可以写下来. 经常温习.&lt;/p&gt;
+
+&lt;p&gt;你还别说, 最有意思的一次. 我搭讪上一个美国的设计师, 他当时在一个笔记本上画网页设计草图. 我就说: &amp;quot;It looks nice, are you a designer?&amp;quot; (这其实基本是一句废话)
+以废话开始, 但过程很赞, 一聊就不可收拾, 后来还得知他是来自芝加哥的设计师, 而且他会写一些 Rails, 最巧的是他以前的办公室就在 37signals 旁边, 他还认识 Jason Fried. 听了很多八卦, 非常开心, 同时真的感叹, 这世界真小..&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;从身边人下手!&lt;/p&gt;
+
+&lt;p&gt;当天答应了 Calvin 之后, 我又单独找他聊了一次. 谈话的内容是我希望以后所有我和他之间的交流都用英文, 特别是涉及工作和项目时. Calvin非常爽快的答应了, 而且他还说会以正常的语速和表达来和我交流. 如果我实在不懂的, 在以中文问他. 这样一来, 基本上项目里容易涉及到的英文和表达, 都可以和 Calvin 提前遇到. 用这个方法后还不到一周就效果明显, scrum meeting 上能听懂更多内容, 因为基本 scrum 上要谈到的, 我和 Calvin 在前一天已经谈过了. 这样在 meeting 上还能再加深一次印象.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;自我安慰!&lt;/p&gt;
+
+&lt;p&gt;所谓自我安慰, 顾名思义, 就是没人陪你的时候, 你就自己解决, 不是用手, 而是用嘴.&lt;/p&gt;
+
+&lt;p&gt;其实很简单, 记得我那时有个电毛驴, 每天骑车上下班, 一共需要大概1个来小时的时间, 这时候除了骑车, 没别的事情可做, 于是我就开始自己和自己说英文.当然不是漫无目的的瞎说, 我心里会模拟一个开会的场景, 然后假设项目到达一个什么样的进度, 然后问自己一个问题, 接着自己再来回答. 而且回答要分各种不同的情况, 比如进度顺利的时候怎么说, 遇到问题了怎么说, 逐步推进直到到达目的地为止.&lt;/p&gt;
+
+&lt;p&gt;这个方法有一个关键点就是千万别默念, 一定要说出来, 像你平时开会那样. 这是一个神奇的方法, 我不确定是不是我首创的, 但是非常有效.而后每次会议感觉都有那么一些意料之中且从容不迫的感觉, 回答也可从我先前的自我练习版里借鉴不少表达.&lt;/p&gt;
+
+&lt;p&gt;这方法, 我至今都在沿用. 虽然不骑电摩托了, 但是我喜欢散步, 所以散步的时候我多半都会这样来练习自己的口语, 把自己在思考的问题用英文说出来, 或者假设自己在某个英文的 conf 里演讲, 怎么介绍自己, 怎么回答别人的提问等等....&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;除了以上三个最重要的方法, 我也做了很多其他的事情, 比如我主动要求代替老板写会议总结, 每次先由我来写, 写了以后发给老板 review, 然后再发给客户和Tim, 这样自己就能确定是不是真的听懂了. 开始的时候很多地方没理解对或者是漏掉了重要的内容. 但是随着这么练习, 精确度可谓越来越高. 还有一些小细节, 比如我把所有系统都改成英文了(包括手机), 文章和书只看英文的, 每天听一个英文的技术演讲, 又学技术又学英文. 很多演讲我要听个 3-4次才能听懂, 没关系, 一天不懂第二天又来, 直到懂为止.&lt;/p&gt;
+
+&lt;p&gt;就这样我坚持不懈的使用我这些偏方有一个来月, 终于迎来了老板离开后的第一个 Scrum meeting. 其实那天根本没那么惊天动地, 回想起来顺利得不行, 因为老板离开的前一周就已经不在 meeting 说任何话了, 他只是旁听, 所有的状况都要由我自己来解决. 虽然那天非常顺利, 但是我依然开心, 吃饭睡觉都在傻笑, 可能是因为获得了另一种&amp;quot;自立&amp;quot;吧!&lt;/p&gt;
+
+&lt;h4&gt;总结:&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;一个追求进步的工程师接触到一些新概念后, 比如测试, 比如OO, 比如REST 等等. 就很容易走极端, 测试覆盖率追求要100%, 要100%做 TDD, 追求极致的OO设计, 无法容忍看起来不 REST 的设计... 其实, 不计时间成本的追求极致是不好的, 但是又是进步青年难免会遇到的. 做软件越久就越明白一个道理, 其实做软件就是不停的在&amp;quot;成本&amp;quot;和&amp;quot;质量&amp;quot;上 making trade-offs. 这世界上没有完美的软件, 在有限的资源里, 能找到最佳的平衡点, 才是真正优秀的工程师.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;英语对于一个软件工程师非常重要, 无论是你想学习最新的知识, 接触最顶尖的同行, 找到最优质的客户, 拿到你最想要的rate... 你真的离不开它(后面的文章你会更有体会). 如果你英文还不是那么好, 现在就开始学习吧, 尽量把学习英语和学习技术统一起来, 这样两不误是最好的.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;不要抱怨环境, 学英语也好, 学技术也好. 他不但会影响你团队成员对你的印象, 而且时间一长, 你就会产生以下两个错误的认识:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;你容易忽略掉自己的主观原因 (就像喜欢说 &amp;quot;猪一样队友&amp;quot; 的人, 很少总结自己是不是有问题, 是不是有失误, 所有失败的原因就这样一厢情愿的归结到队友身上了.)&lt;/li&gt;
+&lt;li&gt;你容易忽略掉环境是可以被你改变的(比如我可以为了学习英语 &amp;quot;见老外就上&amp;quot;, &amp;quot;从身边人下手&amp;quot;, 甚至我可以 &amp;quot;自我安慰&amp;quot;, 这已经从某种程度上改变了我英语学习环境恶劣的现状, 如果你什么都不做, 你只会是停留在那个依然恶劣的环境里.)&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;不要太在意别人的眼光, 那样会让你做事畏首畏尾, 效率低下. 坚持你认为对的事情. 我狂练英文的那段时间里, 遭受了无数异样的目光和议论, 有觉得你装逼的, 有觉得你傻逼的, 有觉得你卖萌的(那个时候似乎还不流行说卖萌, 懂那个意思就行). So what? So f*cking what? 我有什么损失吗? 只要自己明白自己不是在装逼, 卖萌, 是为了一个正确的目标努力, 坚持吧... 解释太浪费时间, 直接原谅他们的误解, 宽容一点. 至少, 我是这么干的.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;多说 &amp;quot;Let me take a try!&amp;quot;, 少说 &amp;quot;It&amp;#39;s impossible!&amp;quot;, 至少我因此受益匪浅.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;什么? 这一篇看起来似乎都在谈英语学习？ 而且尽然没有谈到薪水的增加? 是的, 这足以见得英文有多么重要. 它对我下一次的重大转折起到了举足轻重的作用, 而且下一次的转折可以用飞跃来形容, rate提高接近10倍. 这里先卖个关子, 我们下一篇接着说.&lt;/p&gt;
+
+&lt;p&gt;最后推荐一下我好基友的新文章: &lt;a href="http://yedingding.com/2013/12/03/improve-productivity-in-office.html"&gt;不要让办公室成为你的效率杀手&lt;/a&gt;&lt;/p&gt;
+</description>
+      <guid>tag:terrytai.com,article.url</guid>
+      <pubDate>2013-12-02T17:23:00Z</pubDate>
+      <category>soho, remote, work, freelance, english</category>
+    </item>
+    <item>
+      <title>我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)</title>
+      <link>http://terrytai.com/salary-from-50rmb-to-100usd</link>
+      <description type="html">&lt;p&gt;这个标题看起来有点像标题党? 好吧, 我必须在全文开始之前就澄清一下这一点, 这是千真万确的事实. 我本可以只把一些结论贴在这里供大家参考, 但是那样显得太生硬且没有说服力. 所以我决定把整个故事告诉你, 并在每一篇的最后总结出结论, 这样会更轻松愉快一些. 我不敢说这个经历是否可复制, 但是我相信如果你的目标是做一个优秀的软件工程师, 软件咨询师, 或者是 freelancer的话. 它应该会对你有一些启发, 或者说借鉴的意义. 好了, 就让我们开始吧.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="zealot.jpg" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/xgv3ePk5SPmn4anwN94F_zealot.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;故事开始是在差不多六年前, 那时我还在大学, 和大多的学生一样, 每天玩玩星际, 打打篮球, 看看妹纸, 当然也帮系里写写程序(Java). 同样和大多数无知的学生一样, 都会犯一些认识上的错误, 比如, 我当时真的认为 Java 很酷。&lt;/p&gt;
+
+&lt;p&gt;直到有一天，不经意的看到一个视频 是 &lt;a href="http://www.youtube.com/watch?v=Gzj723LkRJY"&gt;DHH 用 Ruby on Rails 15分钟建立Blog的视频&lt;/a&gt; （不能访问youtube的朋友可以看 &lt;a href="http://v.youku.com/v_show/id_XMzA5MTYxNTY=.html"&gt;youku 上的版本&lt;/a&gt; ), 我被这个视频深深的震撼了, 实在是太cool了, 连续播放了5, 6次, 注意观察着每一个细节, 从操作系统, 到编辑器, 到每一行代码和命令, 一切都是那么陌生而又新奇...（如果我没记错，我第一次看爱情动作片的时候都没有这么仔细和认真）。&lt;/p&gt;
+
+&lt;p&gt;接着立马下载了Rails(on Windows，当时还是1点几的版本)，并在当当订购了上面唯二的两本关于 Ruby 和 Rails 的书 &lt;a href="http://book.douban.com/subject/2032343/"&gt;&amp;quot;Programming Ruby中文版&amp;quot;&lt;/a&gt; 和 &lt;a href="http://book.douban.com/subject/1839273/"&gt;&amp;quot;应用Rails进行敏捷Web开发&amp;quot;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;接下来的好几个月, 非常单纯, 看书, 敲代码(书里的代码我来回敲了至少有5遍，我几乎可以把那个“书店”的程序背着敲下来), 除了看书, 我还订阅了几个不多的Ruby/Rails Blog, 学习一些关于 Ruby/Rails 好的实践. 这个过程是痛并快乐的，那时我几乎没法请教任何人（我严重怀疑我是学校第一个学Rails的), 除了问人, 那时连搜索的资料都没多少. 现在回想一下，其实我走了很多的弯路，如果换作现在，我相信这个学习的时间可以再大大的缩短的.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="hardworking.gif" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/A4EL7IRPT0goyEeFHigI_hardworking.gif" /&gt;&lt;/p&gt;
+
+&lt;p&gt;差不多自学了有5-6个月, 并自己敲了个论坛和博客程序后, 我决定出门去找个实习的机会. 看看真正世界的工程师是怎么玩的. 这种感觉很强烈, 就像我初中玩星际时, 除了和同学玩局域网, 总是想上战网上看看别的高手是怎么玩的. 如果记得没错, 那时我才刚刚上大三, 决定这么早出去实习实际上和家庭也有一定关系, 我迫切的想要自立. (具体的原因 is a secret)&lt;/p&gt;
+
+&lt;p&gt;我所在的城市只有两家用 Rails 的公司, 我投了其中一家。没想到直接就中了, 原因也很简单. 他们从来没有期待过能找到一个懂 Rails 的人, 他们都只是想的招进来再培养. 既然有个现成的, 那肯定得要了. (至今这种情况在很多地方都很普遍)&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="50.jpg" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/jeY0NnTqTBi8kU3T54gt_50.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;那个美女HR给我说得很清楚，我还没毕业, 所以只能按照实习生的标准给我发工资, 算下来也就是50人民币一天. 07年成都的物价还是蛮低的, 50一天基本可以吃饱喝足了.  记得当时还签了不少文件, 我也没太注意细节, 只是不断的确认工作内容是写代码，不是援交什么的就好。现在想起来，我当时确实想多了, 50人名币一天做援交, TM会有人会做吗? 
+至少应该60嘛.&lt;/p&gt;
+
+&lt;p&gt;办好入职, 来到办公桌, 下载我要做的第一个项目, 这个项目是一个社交应用,一个同事, 让我看看代码, 不懂的地方问他. 下载代码的时候内心非常紧张和激动, 希望看看运行在真实世界的代码到底长什么样.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="jy.jpg" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/Wu2sOSzdSoyFIsDo8qsu_jy.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;结果当我仔细翻看代码后, 大失所望, 这个代码基本违反了所有我在先前学习到的最佳实践. 我觉得这个是有难度的, 不亚于用枪兵甩地刺, 不亚于甩狙爆3个头, 不亚于蓝胖子连续10次出四倍.... 我沉默了很久, 在思考是保持沉没，还是去找同事问个明白，最终，我还是鼓起勇气，决定去和同事表白 ... oh, 不是，是说出我真实的想法。&lt;/p&gt;
+
+&lt;p&gt;轻声的走到同事旁边,  低声的说道: &amp;quot;你好, 有几个问题不太明白想请教一下. 请问为什么model不申明 has&lt;em&gt;many 和 belongs&lt;/em&gt;to 的关系呢, 这样就可以用 user.posts 而不用自己写SQL来找了啊? &amp;quot;&lt;/p&gt;
+
+&lt;p&gt;同事: &amp;quot;哦, has&lt;em&gt;many 和 belongs&lt;/em&gt;to 这种东西没什么用, 影响性能, 你不知道吗? 你没用过 Hibernate 吗? ”&lt;/p&gt;
+
+&lt;p&gt;两个反问句直接塞住了我的喉咙, 我保持沉默无言以对, 少时缓和后又接着问下一个问题...&lt;/p&gt;
+
+&lt;p&gt;我: &amp;quot;那我想再请问一下, 为什么这个地方所有的逻辑都放在 controller 里呢？ 而 model 完全是空的, 这个地方的逻辑是不是可以移动到model里去会更好一些?” 
+其实我略微有夸张, 严格来讲, model还是有两行代码, 并不完全是空的:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; class User &amp;lt; ActiveRecord::Base
+ end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;同事变的很不耐烦道: &amp;quot;这个你不懂，等你工作几年有经验就懂了.&amp;quot;
+...&lt;/p&gt;
+
+&lt;p&gt;这回答让我愣在那里久久回不过神来, 第一次感受到, 原来真实的社会这么恐怖. 当我意识到我的问题不受欢迎时, 我比较自觉的回到了自己的座位. 心想以后和他当不了朋友了, 至少基友是肯定当不了了.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="boss.jpg" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/fup6ju0xSDqbuCGkvgv3_boss.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;接着, 我把项目的几乎所有功能都跑了一遍, 惊奇的发现, 它尽然能跑, 而且基本的功能也都实现了. 内心突然开始纠结一个问题, 到底是能跑就够了? 还是只能跑还远远不够呢? 还没等我想清楚, 公司的老板（男）突然叫去旁边的小房间：&lt;/p&gt;
+
+&lt;p&gt;问道: &amp;quot;代码都看了吧？ 你觉得代码写得如何?&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;我心里犯着嘀咕, 我是应该吸取刚刚说实话的教训呢, 还是应该继续不撞南墙不回头呢? 我猜如果得罪了他, 可能明天就不用来上班了, 短暂的纠结后, 我还是决定说实话, 如果在一个不能说实话的地方呆着工作, 还不如早早回家洗洗睡了.&lt;/p&gt;
+
+&lt;p&gt;我硬着头皮说: &amp;quot;我觉得这个代码写得不是太好, 还有很多地方可以改进的空间, 比如 ... 比如...&amp;quot; 我不停的在屏幕上比划着。“我在想, 如果我是客户可能不太能接受目前的这个代码.&amp;quot; (我承认, 我当时说话很委婉, 其实我当时是想说 &amp;quot;The code is shit!&amp;quot; . 但, 即使是说真话, 也要用正确的方式. 不然我估计我真可以卷铺盖回家了.)&lt;/p&gt;
+
+&lt;p&gt;老板听了以后非常吃惊的看着我. 眉头略微锁紧, 还直视着我的双眼. 你没猜错, 就和青春基友偶像片里演得差不多. 我当时非常紧张, 随时准备&amp;quot;落荒而逃&amp;quot;...&lt;/p&gt;
+
+&lt;p&gt;突然, 他大声道: &amp;quot;你说的太对了，客户目前就是对代码的质量非常不满意. 在这个代码的基础上改 bug 和加功能已经显得非常的吃力和缓慢. 虽然它现在能跑, 但是维护性已经极差了.&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;听了这番话, 心中大石落地, 原来他不是要和我搞基, 我自作多情了...
+但同时刚刚心里的疑问也得到了答案. &amp;quot;代码只是能跑是远远不够的, 它必须要容易维护 (结构清晰，易读，易改).&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;他接着说: &amp;quot;正好客户现在刚刚 hire 了一个在美国的独立咨询师叫 Tim, 远程参与到这个项目来对项目做大规模的重构. 这个工程师非常有经验, 他现在已经50多岁了, 你愿意和他一起参与到这个项目的重构中吗?&amp;quot;&lt;/p&gt;
+
+&lt;p&gt;我一听非常惊讶, 能和这样优秀的且有经验的人一起工作是我梦寐以求的. 而且 50 多岁应该不会有被潜规则的风险吧, 何况他还在美国.
+其实当时内心还是很有一些不安，觉得自己经验还不足，不知能不能和这样的牛人一起工作，但最终还是硬着头皮答应了。&lt;/p&gt;
+
+&lt;p&gt;接下来的时光
+....&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="working.png" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/x2OiPFM1TGsra6kzio47_working.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;可能是我这辈子学习效率最高的时光, 接触了一大堆以前都没怎么听过的概念, TDD, Continuous integration, Pair, Scrum, Refactor, Deployment...
+这里面任何一个单独的概念都足以写好几本书, 并够我研究上好一整子. 但可惜的是没有这么多时间让我先看完所有相关的书, 再开始干活, 于是边干边学成了我唯一选择. 先知道一些粗浅的概念, 然后开始干, 通过 Tim 的反馈再结合自己遇到的问题, 然后针对性的看书和 google 资料. &lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="100.jpg" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/2blkRoaT61V7iiBPnDeQ_100.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;如此反复, 慢慢我已经可以基本跟上 Tim 的节奏了, 他也越来越喜欢我(不是那种喜欢). 并给了我非常不错的评价, 客户也因此非常开心. 这让老板对我刮目相看. 几乎快丢掉的一个项目尽然被挽回了.
+于是我很快得到了加薪. 如果我没记错, 是增长了一倍, 达到了100人民币一天. 据说这已经是公司给我破例了, 因为实习生是拿不到这个数字的. 我当时真的非常开心, 我可以不需要老妈给我一分生活费了, 这意味着我某种程度上自立了, 最重要的是我觉得我真的学到好多东西, 我做出的贡献得到了认同.&lt;/p&gt;
+
+&lt;h4&gt;这里让我简单的总结一下第一次加薪的原因吧:&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;代码仅仅能工作是远远不够的, 它必须优雅易读且易维护.
+能让代码工作的人这个世界上太多了, 你放心吧. 绝对不缺少你一个, 就连 model 里只有两行代码的项目, 它不也可以工作吗? 你要想变得更有价值, 那么你必须要做到, 不仅让代码工作, 而且要写出优雅易读且易维护的代码.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;在工作中和同事一定要说实话, 但是说实话一定要注意方式
+很多人以自己不撒谎为&amp;quot;借口&amp;quot;, 就常常赤裸裸的说出一些很让人难以接受的话, 伤人无数, 还自以为这是正义的. 其实你错了, 说实话也需要正确的方式, 特别是在你和其他人合作完成项目的时候.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;不要期望看完了书再开始做事, 边学边干才是高效的学习方式
+我越来越觉得这是唯一的学习方式了. :p&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;工作方式和流程非常重要, 特别是当你和其他人合作的时候
+很多程序员一提到流程二字就不削一顾, 认为自己是 geek 是hacker 怎么需要谈论这种东西. 再加之众多咨询公司近几年狂炒这个话题, 确实让人听着就有点反感. 抛开这些让人不愉快的表面, 本质上, 一个团队要想做好事情,好的流程就是必须的. 除非你永远都一个人工作.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;掌握一门相对小众而又不那么太小众的技术, 对薪资是有一定的帮助的
+虽然追求小众不是我当时学习Ruby/Rails的原因, 但是不得不承认, 它是一个结果.
+我的确也因此收益, 这是一个客观事实. 
+如果以我当时的水平, 我是写php或者java, 那么我根本不一定能拿到这个实习的机会.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;好了, 第一次提薪就讲到这里, 100人民币/天 不算多, 但是对于07年的成都,和一个实习生来讲已经是很让人满足了. 什么? 还不够? 别急, 我们下回接着讲. 看看我们怎么到 100美元/小时的.&lt;/p&gt;
+</description>
+      <guid>tag:terrytai.com,article.url</guid>
+      <pubDate>2013-11-18T01:23:00Z</pubDate>
+      <category>soho, remote, work, freelance</category>
+    </item>
+    <item>
+      <title>如何开始你的 SOHO 之旅 (2)</title>
+      <link>http://terrytai.com/how-to-begin-soho-2</link>
+      <description type="html">&lt;p&gt;没想到这个系列的&lt;a href="/how-to-begin-soho-1"&gt;上一篇文章&lt;/a&gt;受到了如此大的关注，很多朋友也提出了不少问题和疑惑，我也将尽可能的在这一篇或这个系列的未来几篇文章中给大家做出回答。这一篇blog还是让我们先按照主线来继续，来谈谈程序员开始SOHO的另外一条路：&lt;/p&gt;
+
+&lt;h2&gt;加入一个允许在家工作的公司&lt;/h2&gt;
+
+&lt;h3&gt;需要考虑什么？&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/521c17dba6376c00bd00010e/e276ba0007a0424d022d6d438bf8520b/question_mark.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;上一篇文章一出，就有人问道：“在中国能找到允许在家上班工作？”-- 那是当然，因为我就曾在一家名叫 &lt;a href="http://www.intridea.com/"&gt;Intridea&lt;/a&gt; 的软件公司工作过两年多。并在这里结识到非常多的优秀的程序员，我的两位创业伙伴 &lt;a href="http://yedingding.com/"&gt;Dingding&lt;/a&gt;, Ben 也都是在这里认识的。并且现在还有很多非常优秀的老朋友依然在这里工作得非常happy。你也许会说，Intridea不是一家美国公司吗？是的，有什么影响呢？作为一个打算 SOHO 的程序员你真的在乎你的公司是 based on 哪个国家的吗？当选择 SOHO 公司时，我个人认为你只需要考虑以下四个问题：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; 工作的内容是否是你感兴趣的&lt;/li&gt;
+&lt;li&gt; 待遇是否让你觉得满意（不是我俗， 这个很重要。早日实现财务自由就靠它了 :p）&lt;/li&gt;
+&lt;li&gt; 是否能结识有意思的，优秀的人&lt;/li&gt;
+&lt;li&gt; 是否对你未来的职业发展有帮助&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;是的，如你看到的，没什么特别。你即使选择一家不允许在家上班的公司，你也仍然需要考虑这四个问题。但是区别在于你不用考虑如下问题了：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/521c1737a6376c00bd000109/2c14b6c15a3d7c757ee3a96c3e0109a8/liuchuanfeng.jpg" /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; 不用考虑这个公司在哪个国家，哪个城市，哪个位置，离你家有多远。 （依稀记得，流川枫当年就因为这个选择了湘北）&lt;/li&gt;
+&lt;li&gt; 不用考虑是否会因为公司在外地而被迫离开你的爱人或家人&lt;/li&gt;
+&lt;li&gt; 不用考虑到公司的交通是否方便&lt;/li&gt;
+&lt;li&gt; 不用考虑公司是否需要打卡&lt;/li&gt;
+&lt;li&gt; 不用考虑公司是否提供免费且健康的午餐&lt;/li&gt;
+&lt;li&gt; 不用考虑公司是不是发是不是 Apple 或 Thinkpad 的电脑&lt;/li&gt;
+&lt;li&gt; 不用考虑公司的转椅是不是200元一把在批发市场统一进货的（不但对你脊椎和腰不好，甚至有爆X花的风险哦！&amp;gt;.&amp;lt; ）&lt;/li&gt;
+&lt;li&gt; ....&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;当你挑选远程工作的公司时，你考虑的问题往往是更接近你工作的本质。不会被一些客观条件所束缚。换言之，你更容易找到你真正喜欢的工作。&lt;/p&gt;
+
+&lt;h3&gt;怎么找到这样的公司？&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/521c1c2da6376c00bd00011c/ac39f43c2533b262c04fe3cc5dff5e73/xunzhao.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;不得不说，让员工在家里上班的公司仍然是属于小众的，你也可以说他们是超前的。但是找到他们并没有你想像的那么难。我们要怎么找到他们？在回答这个问题之前我们必须要了解一下&lt;strong&gt;通常&lt;/strong&gt;这样的公司有什么样的特点和价值观：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; 认为人才不一定就在你家附近，他很有可能在大洋彼岸的某个地方&lt;/li&gt;
+&lt;li&gt; 不喜欢通过招聘网站招人，不喜欢看简历（或者说简历通常只起到参考作用）&lt;/li&gt;
+&lt;li&gt; 懂得如何宣扬自己的价值观，通过自己的博客，Podcast， 写书，走出去到各种conf 或聚会做演讲或做交流&lt;/li&gt;
+&lt;li&gt; 不喜欢繁重的流程，崇尚简单。敏捷对他们来讲更多是流在血液里而不是嘴巴里&lt;/li&gt;
+&lt;li&gt; 他们大多是 Github 的用户 和 37 Signals blog 或 书的读者&lt;/li&gt;
+&lt;li&gt; 崇尚开源&lt;/li&gt;
+&lt;li&gt; ...&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;足够了，虽然共性或许还有很多。但是已经足够我们找到他们了。如 1，2 所说，参加当地的什么人才交流市场以及到什么联招聘网站投简历这种路数基本是没戏了。我知道或许大部分人是这么找工作的，但是很明显你是在找一个小众的东西，怎么能用一个大众的方法呢？来来来，让我来为你指出几条明路 :D &lt;/p&gt;
+
+&lt;h4&gt;通过 Github 或 37 Signals 的Job board&lt;/h4&gt;
+
+&lt;p&gt;如我上面第五点所说，这些支持 remote的公司或其员工，多多少少受到了 Github, 37 Signals 两家公司的影响。这一方面是因为 Github, 37 Singals 是两家价值观输出做得很好的公司，从而成为了意见领袖。另一方面就是他们本来就一直推动远程工作的发展，无论是工具上，流程上，方法学上他们都在做出很多的尝试和贡献。这不， &lt;a href="http://37signals.com/remote"&gt;37 Singals 马上上架的新书&lt;/a&gt;不就是讲 Remote working 的吗？可千万不要错过哟。&lt;/p&gt;
+
+&lt;p&gt;话说回来，当这些公司需要发招聘信息时，他们通常很乐意选择他们十分认同的公司的 Job Board，也就是：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://jobs.37signals.com/"&gt;jobs.37signals.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://jobs.github.com/"&gt;jobs.github.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;是的，你可以说他们是这两家公司的“脑残粉”。但他们更重要的考虑是，他们认为在这两个地方发招聘信息更容易找到和他们价值观接近的人。你可能无法想象价值观接近对于一个远程工作的公司有多么重要。它意味着你可以节省大量的时间讨论什么是对的，什么是错的，它意味着你不知道为什么但是工作起来就是很合拍... &lt;/p&gt;
+
+&lt;p&gt;你可能会觉得这些 Board 中，很多并没有说明自己是支持远程工作的。是的，的确如此。但是很多没有提到，并不代表他们是不允许的。大胆问一下，他们是否支持远程工作。其实有很多是允许的，即使不允许你不也没什么损失吗？:)&lt;/p&gt;
+
+&lt;p&gt;BTW, 有空的时候看看这两家公司的东西，开源项目也好，blog也好，书也好。也让自己“洗洗脑”，这样和你未来的同事相处一定会顺畅很多...&lt;/p&gt;
+
+&lt;h4&gt;通过社交网络&lt;/h4&gt;
+
+&lt;p&gt;如第3点所讲，这些公司中大多喜欢表达自己的想法。他们的 blog，他们的 twitter... 你可以从这些地方入手找到他们。其实从他们发布的东西的内容和方式你就多多少少能判断这个公司是不是你想要的。并且不要羞于通过评论，@ 等方式和他们互动，进一步的了解他们。&lt;/p&gt;
+
+&lt;p&gt;也可以从 Github, 37 Signals 等一些著名Blog的评论中去寻找这些人的足迹，他们是不会错过评论一篇优质文章，并发表一些自己的观点的。和他们互动，认识他们。这就是一个好的开始。&lt;/p&gt;
+
+&lt;h4&gt;通过参加conf&lt;/h4&gt;
+
+&lt;p&gt;当一个公司意识到人才可能并不在你周围的时候，他们是非常乐意走出去的。&lt;a href="http://www.joelonsoftware.com/"&gt;Joel&lt;/a&gt; 在他的 blog 也提到。你要找到优秀的人才，那么你必须走出去。去那些技术的 conf, 去那些技术的 meetup。&lt;/p&gt;
+
+&lt;p&gt;而作为想要找到这些工作机会的人们，特别是远程工作机会的人。你也应该顺应这个趋势，去各种 conf 和 meetup 和他们搞个“邂逅”。（比如即将到来的 &lt;a href="http://rubyconfchina.org/"&gt;Rubyconf China 2013&lt;/a&gt;）相信我这些你平时认为的意见领袖和牛人比你想的要随和多了，勇敢的去和他们聊聊天，你一定收获会颇丰。说不定一个完美的工作机会就因为这个谈话而诞生了。还是那句话，如果失败你真有什么损失吗？&lt;/p&gt;
+
+&lt;p&gt;另外如果你能提交一个演讲，那将是一个更完美事情。在场所有的人将听到你的观点，你的演讲。你知道这意味着什么吗？这将意味着，他们或许会来找你聊天。而你，只要当他们来时表现得随和一点就行了，那么接下来很多问题都好办了 :p&lt;/p&gt;
+
+&lt;h4&gt;通过开源贡献&lt;/h4&gt;
+
+&lt;p&gt;还有什么比代码更能说明一个程序员的水平？如果你瞄准了一家公司，那么去 Github 翻翻他们家的箱底。如果找到一些你略微熟悉的开源项目，立即fork。试用，并想想有没有什么改进的空间。（比如你就可以拿&lt;a href="https://github.com/pragmaticly"&gt;我们的箱底&lt;/a&gt;开刀）&lt;/p&gt;
+
+&lt;p&gt;接下来的日子或许会过得有些辛苦。熟悉这个项目的代码，搞清楚它的工作原理，最重要的是摸清他们的开发风格。然后提交 PR，参与到这个项目的开发中。&lt;/p&gt;
+
+&lt;p&gt;只要有几个不错的 PR 被接受，并和维护者熟悉了。然后你可以投放简历到这家公司了。相信我你中标率将高于其他所有人。因为你已经证明了你自己，甚至你连编码风格都和他们公司差不多。他还有什么理由可以拒绝你呢？&lt;/p&gt;
+
+&lt;p&gt;其实通过开源项目方式来招收新员工的方式，已经大量的被很多公司所接受。因为它确实太好了，他可以保证你招收的人已经是你想要的，并且你已经具备了远程工作的能力。&lt;/p&gt;
+
+&lt;p&gt;仔细想想，众多的优秀开源项目不都是远程工作的产物吗？:)&lt;/p&gt;
+
+&lt;h4&gt;订阅我的社交媒体&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href="http://terrytai.com/"&gt;我的Blog&lt;/a&gt; 和 &lt;a href="http://weibo.com/poshboytl"&gt;我的weibo&lt;/a&gt; 以及 &lt;a href="https://twitter.com/poshboytl"&gt;我的twitter&lt;/a&gt;都会公布一些我所知道的远程工作机会。如果你有兴趣的话可以订阅哟 :D&lt;/p&gt;
+
+&lt;p&gt;今天就在此公布一个：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://teahour.fm/2013/08/21/strikingly-yc-and-startup.html"&gt;上一期 Teahour.fm&lt;/a&gt; 我们采访的 &lt;a href="https://www.strikingly.com/"&gt;Striking.ly&lt;/a&gt; 团队正在招收 Rails 后端程序员。他们要求前两个月去公司上班，以后都可以在家SOHO。此团队极其靠谱是第一个获得&lt;a href="http://ycombinator.com/"&gt;Y-Combinator&lt;/a&gt;投资的中国团队。如果你也是个靠谱的家伙，你可以和我取得联系，我可以帮你做推荐。当然，你也可以直接上 :)&lt;/p&gt;
+
+&lt;p&gt;最后无耻小广告一枚: 远程工作一定要用好的项目协作工具，看看我们家的 &lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt; 吧。你一定会喜欢的 ;)&lt;/p&gt;
+</description>
+      <guid>tag:terrytai.com,article.url</guid>
+      <pubDate>2013-08-22T01:22:00Z</pubDate>
+      <category>soho, remote, work, freelance</category>
+    </item>
+    <item>
+      <title>如何开始你的 SOHO 之旅 (1)</title>
+      <link>http://terrytai.com/how-to-begin-soho-1</link>
+      <description type="html">&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/520d633ea6376c380e000079/32d3e1f754ddee9f7b02883a3667b530/soho.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;仔细算算自己在家上班已经有差不多4年了，所以回想起整个过程，只有一种感受，那就是再也回不去了。我相信很多在家工作多年的朋友也会有同样的感受，“自由”这东西一旦拥有就太难再放弃掉。&lt;/p&gt;
+
+&lt;p&gt;我现在无法想象我每天要在上下班的路上耽搁1-2个小时，每天要准时一大早起床，每周无论有事没事都必须工作5天，不能每天坐在我最舒适的椅子和桌子面前工作... 最关键的是，我不能放弃这一份已经拥有的 “自由” --- 嗯？问题搞深沉了.. 这篇文章我并不是想介绍在家 SOHO如何如何好，我想谈的是如果你也想成为一名在家 SOHO 的程序员你应该怎么做。&lt;/p&gt;
+
+&lt;h2&gt;程序员在家工作的几种选择：&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt; 做一名 freelancer, 自己接项目&lt;/li&gt;
+&lt;li&gt; 加入一个允许在家工作的公司&lt;/li&gt;
+&lt;li&gt; 争取成为你现在公司第一个在家工作的员工&lt;/li&gt;
+&lt;li&gt; 创业，并让你的公司允许远程办公&lt;/li&gt;
+&lt;li&gt; 成为一名独立开发者(开发应用, 或者是独立咨询)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;如果在家办公是一个你很重要的诉求，那么你不妨考虑一下上面 5 种选择，看看哪种更加适合你。然后制定一个清晰的计划并为此努力。 当然，其中 1, 2, 3 相对要容易一些（要做好其实也不容易，更合适的说法或许是风险要低一些吧。），4, 5相对要难一些。如果 4, 5是你想要做的，不妨从 1, 2, 3里选一个作为过度，有一定积累后再完成你的最终目标。&lt;/p&gt;
+
+&lt;p&gt;本文将介绍第一点，后续文章会逐步介绍其他几点。&lt;/p&gt;
+
+&lt;h3&gt;做一名 Freelancer, 自己接项目&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/520d604da6376c380e000076/2eeb3fee2ac3b078a67ec8c78443cecb/freelance.jpg" /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Freelance这个词最早出现时是用来指称“中世纪的雇佣军骑士”，即“free-lance”; 随着时间推移，它慢慢被用于指称自由撰稿人(应该算自由职业中非常流行的行当，特别是在西方国家)，进而扩大至指称所有自由职业者们。&lt;/p&gt;
+
+&lt;p&gt;因为自由职业者们通常是脑力劳动者或服务提供者，并且大多是自己所在领域的专家或资历丰富者，加上又不要求签订长期的工作协议或合同，许多企业或个人愿意将自己的项目外包(Outsourcing)给他们。&lt;/p&gt;
+
+&lt;p&gt;-- Freelancer专属™ 博客&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;做 Freelancer 最需要解决的是项目来源问题，而项目来源最主要的途径通常是有四种：&lt;/p&gt;
+
+&lt;h4&gt;通过在线 Freelance 平台接项目&lt;/h4&gt;
+
+&lt;p&gt;类似的平台有很多，相对传统且做的较大的有：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="http://www.freelancer.com/"&gt;freelancer.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;freelancer.com 可以算是资格最老的 freelance 平台了，以前也曾是那么的辉煌。但是，现在这里已经慢慢变成了一个几乎所有项目都会有一堆印度人以极低的价格和你血拼的地方。我个人认为要想做 Freelancer， 一定不能拼价格，特别是和印度人拼价格。 最主要还是能提供更好的服务，更好的完成任务，写出更易维护的代码...  但是如果你是初出茅庐，最难的或许是如何证明你有这样的实力，为什么要收比那些印度人更高的价格。是的，你必须收比他们更高的价格，因为经过我的计算，大多情况下如果你和他们收一样的价格，你几乎不太可能养活你自己。毕竟，你夏天还得吹吹空调吧... :p&lt;/p&gt;
+
+&lt;p&gt;所以， 如果你有一些开源的项目或者在线运行的项目能证明你的实力的，千万不要羞于拿出来，否则你或许前几单真要和他们拼价格了。&lt;/p&gt;
+
+&lt;p&gt;freelancer.com 里的优质项目的比例真的已经比以前低很多，或许花时间在里面找到优质项目就够你麻烦的了。所以我个人现在并不推荐你来这里接货儿。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://www.odesk.com/"&gt;oDesk&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;oDesk 相对于 freelancer.com 最大的特点是。它更支持客户给 freelancers 按小时结算。在我看来在此类似平台接项目，按小时计费是很重要的。因为这类平台客户要把需求写得十分精准几乎是很难的，你的程序需要来回修改几乎是家常便饭。如果按小时收费，那么这个来回修改的费用将由客户来承担，这也从另一方面促使他们把问题想清楚，把需求写得更加清楚。&lt;/p&gt;
+
+&lt;p&gt;另外 oDesk 要通过视频来和屏幕截图来监视你是不是认真的工作了你说的那么多小时... WTF... 我们干 freelancer 不是为了自由吗？ 这么搞是要闹哪样？&lt;/p&gt;
+
+&lt;p&gt;就因为这一点，我真的不推荐这个平台。不过这个平台的 rate 相对 freelancer.com 高一些。你是不是要暂时放下你的自由？还是你自己决定吧!! &amp;gt;.&amp;lt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="https://www.elance.com/"&gt;Elance&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Elance 在我看来相对于上两个要好一些。一方面它项目的平均 rate 要高一些。另一方面他也没有恶心的视频监控之类的东西。但是你需要填写你每天工作花了多少时间，具体做了什么事情。相信我，这要求真不过分。即使客户不做这种要求，我自己也会写的。&lt;/p&gt;
+
+&lt;p&gt;•4. &lt;a href="http://www.topcoder.com/"&gt;TopCoder&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;TopCoder 看似是比赛，实际上他是通过比赛的形式来做外包，这个平台和其它平台比起来非常特别。要注意的是，你做好的东西，会有人 review, 选出前三名。而只有前三名有钱拿（相对较高），后面的名次是没有钱拿的。所以有可能你会白劳动。如果你做出一些成绩后，你可以做那些 review 别人代码的人，而 review 本身也是收费的。&lt;/p&gt;
+
+&lt;p&gt;这里要特别注意，这个平台 .NET 和 Java 的人特别多，竞争非常激烈。反儿，做前端的人特别少，相对没什么竞争。所以如果你是个不错的前端，别忘了考虑考虑哦。:)&lt;/p&gt;
+
+&lt;h4&gt;Job Board&lt;/h4&gt;
+
+&lt;p&gt;除了传统的接项目平台，去一些不错的 Job Board 找项目是&lt;strong&gt;非常不错的选择&lt;/strong&gt;。虽然大多可能是全职的工作居多，但是招募 freelancer 的其实也不少，需要自己细心去挖掘。在这里推荐一些不错的：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://jobs.github.com/"&gt;jobs.github.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://careers.stackoverflow.com/jobs"&gt;stackoverflow jobs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://news.ycombinator.com/jobs"&gt;ycombinator jobs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://jobs.37signals.com/"&gt;37signals jobs&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://gun.io/"&gt;gun.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这种方式拿到的项目，普遍 rate 要高一些并且靠谱率也要高一些（靠谱率 lol...）。 如果你初来乍到，这种途径对于你自己的实力以及和客户的沟通能力都是非常大的挑战...&lt;/p&gt;
+
+&lt;h4&gt;通过朋友介绍&lt;/h4&gt;
+
+&lt;p&gt;其实最好的接活儿的方式还是通过朋友介绍，可以是你的前同事，前客户，你同行的朋友。朋友介绍通常的好处是，客户相对更加容易信任你，而且你朋友通常会做一些筛选，那么项目也相对更靠谱一些。所以和你以前的同事保持良好的关系，经常的沟通是非常重要的。&lt;/p&gt;
+
+&lt;p&gt;如果没有相关资源怎么办？ 去认识那些你优秀的同行朋友。相信我，勇敢的走出这一步，参加各种活动，想办法去认识那些靠谱的人，并想办法证明你自己也非常靠谱。这样当他们有了项目需要找人，或许脑海里你就在那个“靠谱开发人员”的list里。&lt;/p&gt;
+
+&lt;h4&gt;让客户自己找上门来&lt;/h4&gt;
+
+&lt;p&gt;这一点真的很难，但是绝不是做不到。要想让客户找上门来，你必须要有一定知名度。而积累知名度不外乎以下几种方法：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; 写优秀技术博客，并且坚持 ( 比如 XDite 同学的 &lt;a href="http://blog.xdite.net/"&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt; 做客户能访问甚至正在使用的优秀的项目 (比如咱们的 &lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt; :D )&lt;/li&gt;
+&lt;li&gt; 参与或创建一些优秀的开源项目 (比如 &lt;a href="http://blog.huangzhimin.com/"&gt;Richard&lt;/a&gt; 同学的 &lt;a href="https://github.com/railsbp/rails_best_practices"&gt;rails best practices&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt; 去技术会议上演讲 (比如赶快报名 &lt;a href="http://rubyconfchina.org/"&gt;Rubyconf China 2013&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;做好这几点都不是那么容易的事情，而且效果也绝不是立竿见影，且需要你坚持不懈的努力。但是一旦成功那么效果也将是极好的，rate 也将是极高的. 你懂的... :D&lt;/p&gt;
+
+&lt;h3&gt;总结一下，我觉得做 freelancer 几个重要的点&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt; 以上四种途径并不矛盾，而最终一定要向第四种努力&lt;/li&gt;
+&lt;li&gt; 不要打价格战，一定要提供更好的服务&lt;/li&gt;
+&lt;li&gt; 尽量接欧美的项目，相信我，相比而言 rate 比国内要高不少&lt;/li&gt;
+&lt;li&gt; 英语对于一个 freelancer 来讲真的非常重要，特别是读和写&lt;/li&gt;
+&lt;li&gt; 做事情一定要专业，避免情绪化&lt;/li&gt;
+&lt;li&gt; 学会对客户 Say no!!&lt;/li&gt;
+&lt;li&gt; 建立 reputation 极为重要，且一定要坚持不懈&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;这个系列的第一篇就结束了，希望对你有所帮助，以后还会继续介绍 SOHO 相关的话题。&lt;/p&gt;
+
+&lt;p&gt;你可以 &lt;a href="http://weibo.com/poshboytl"&gt;加我微博&lt;/a&gt; 或 &lt;a href="https://twitter.com/poshboytl"&gt;加我推特&lt;/a&gt;，里面会有更多我 SOHO 相关的经验和心得。希望能和你多多交流和互动。&lt;/p&gt;
+</description>
+      <guid>tag:terrytai.com,article.url</guid>
+      <pubDate>2013-08-15T01:23:00Z</pubDate>
+      <category>soho, remote, work, freelance</category>
+    </item>
+    <item>
+      <title>Ruby 基础篇之如何山寨 require 和 load</title>
+      <link>http://terrytai.com/ruby-basics-how-to-faux-require-and-load</link>
+      <description type="html">&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/517a53014017a4561a000230/bfb3a2863ae41f9a84f92846d787e5b8/shanzhai.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;前几天被一个初学 Ruby 的同学问及 require 和 load 有什么区别。后来想想这个问题虽然答案并不难，但是还可以引申出不少可以探讨的内容。所以我打算通过山寨一个 require 和 load 的方法的形式，来阐述一些内容。&lt;/p&gt;
+
+&lt;p&gt;在开始之前我们首先假设我们有一个 person.rb 文件，内容如下:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;class Person
+
+  attr_reader :name, :age
+
+  def initialize(name, age)
+    @name = name
+    @age = age
+  end
+
+  def to_s
+    &amp;quot;My name is #{name} and I&amp;#39;m #{age} years old!&amp;quot;
+  end
+
+end
+
+person = Person.new(&amp;quot;金将军&amp;quot;, 30)
+puts person.to_s  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2&gt;先来山寨 load&lt;/h2&gt;
+
+&lt;p&gt;先让我们来做做试验。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# -*- coding: utf-8 -*-
+# try_load_require.rb
+
+load &amp;#39;./person.rb&amp;#39;
+load &amp;#39;./person.rb&amp;#39;
+
+$ ruby try_load_require.rb
+My name is 金将军 and I&amp;#39;m 30 years old!
+My name is 金将军 and I&amp;#39;m 30 years old!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;我们这里调用了 两次 load ，发现 person.rb 被调用了两次。这说明 load 是不会判断文件是否已经加载，只是简单的加载并运行了内容。&lt;/p&gt;
+
+&lt;p&gt;换言之我们可以自己山寨一个 load 方法来达到同样的目的：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# -*- coding: utf-8 -*-
+# try_load_require.rb
+
+def load(file_with_path)
+  puts &amp;quot;这是山寨load()&amp;quot;
+  eval File.read(file_with_path)
+end
+
+load &amp;#39;./person.rb&amp;#39;
+load &amp;#39;./person.rb&amp;#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;其实如果你细心看过 load 方法的文档的话你会发现 load 实际上是可以接受第二个参数的，并且这个方法的返回值恒定为 true&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;load(filename, wrap=false) #=&amp;gt; true
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;wrap 参数到底有什么用？我们需要重新来做一个试验：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# -*- coding: utf-8 -*-
+# try_load_require.rb
+
+def check_person_defined
+  begin
+    puts &amp;quot;Person class is defined&amp;quot; if Person
+  rescue NameError
+    puts  &amp;quot;Person class is not defined&amp;quot;
+  end
+end
+
+load &amp;#39;./person.rb&amp;#39;, true
+check_person_defined
+
+load &amp;#39;./person.rb&amp;#39;
+check_person_defined
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;而输出结果是：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;ruby try_load_require.rb
+My name is 金将军 and I&amp;#39;m 30 years old!
+Person class is not defined
+My name is 金将军 and I&amp;#39;m 30 years old!
+Person class is defined
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;这说明当我们调用 load 时把第二个参数设为 true，虽然执行了 person.rb 的代码，但是 Person 的定义并不能在当前作用域起作用。那可以通过在一个匿名的作用域来执行person就可以达到相同效果了。所以我们可以继续做更完整的做如下山寨：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;def load(file_with_path, warp = false)
+  puts &amp;quot;这是山寨load()&amp;quot;
+  if warp
+    Module.new.module_eval(File.read(file_with_path))
+  else
+    eval File.read(file_with_path)
+  end
+  true
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2&gt;接下来山寨 require&lt;/h2&gt;
+
+&lt;p&gt;用同样的方法我们来测试一下 require&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# -*- coding: utf-8 -*-
+# try_load_require.rb
+
+require &amp;#39;./person.rb&amp;#39; #=&amp;gt; true
+require &amp;#39;./person.rb&amp;#39; #=&amp;gt; false
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;而输出结果是：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ruby try_load_require.rb
+My name is 金将军 and I&amp;#39;m 30 years old!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;这说明 require 是会判断文件是否已经被加载，如果被加载的话是不会再进行重复加载的。并且第一次加载成功会返回 true，如果判断为重复加载会返回 false。&lt;/p&gt;
+
+&lt;p&gt;知道这个简单的规则后，我们就可以做如下山寨了并且会用到我们刚刚的山寨 load 哟 :)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$required_files = []
+
+def require(file_with_path)
+  puts &amp;quot;这是山寨require()&amp;quot;
+  full_path = File.expand_path(file_with_path)
+  if $required_files.include?(full_path)
+    return false
+  else
+    $required_files &amp;lt;&amp;lt; full_path
+    load(full_path)
+    return true
+  end
+end
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;怎么样, 简单吧？ 希望通过这个简单的山寨能让初学的朋友能更好的理解和记忆 require 和 load 的区别。&lt;/p&gt;
+
+&lt;p&gt;那什么时候用 load 什么时候用 require 呢？在大多数情况下我们都是使用 require 的。但是有些时候需要多次加载一个变化的文件，比如像 Rails 的 development 模式的 server 启起来以后，需要再次加载改变的源文件那么就需要用到 load (或者 autoload, 以后会谈到)。&lt;/p&gt;
+
+&lt;p&gt;以后我还会写一系列的针对 Ruby 基础知识的文章，敬请期待哟. :)&lt;/p&gt;
+
+&lt;p&gt;BTW, 最近我建立了一个 Ruby/Rails 学习QQ群 231618869，学习 Ruby/Rails 的同学可以在这里交流经验和你遇到的问题哟。&lt;/p&gt;
+</description>
+      <guid>tag:terrytai.com,article.url</guid>
+      <pubDate>2013-04-26T01:22:00Z</pubDate>
+      <category>ruby, require, load</category>
+    </item>
+    <item>
+      <title>Buy It</title>
+      <link>http://terrytai.com/buy-it</link>
+      <description type="html">&lt;p&gt;在我人生中我不幸的失去过很多软件。&lt;/p&gt;
+
+&lt;p&gt;比如当年的仙剑奇侠传（最初的狂徒工作室，因为仙剑销量不佳解散）：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/5157c5354017a4ee94000005/4a2e9947de3ebc3202b66419bef9c749/418193.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;又比如后来的 QuickSilver(以前是收费的，由于购买正版的用户并不多，作者将其开源了。)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/5157c68e4017a4ee94000006/1c0c923fb3fc3458173b73396da1e19d/quicktunes.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;然后是即将逝去的Google Reader.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/5157e0294017a4374800003d/da2b015c8f4747cc20005091130e950e/20130327110920184.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;这不经会让我想到这是为什么？下一个又是谁呢？每次想到这种问题，我总是会不寒而栗。我能不能阻止我喜欢的软件就在我面前这样死掉？&lt;/p&gt;
+
+&lt;p&gt;思来想去我得出了两个结论:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; &lt;strong&gt;Choose a right one&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt; &lt;strong&gt;Buy it&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;Choose a right one&lt;/h2&gt;
+
+&lt;p&gt;选择一个正确的软件，我相信每个人一定有自己不同的标准。我在此只想从软件的商业模式上来考虑一下软件的选择的问题。&lt;/p&gt;
+
+&lt;h4&gt;什么？作为用户居然要思考软件的商业模式？&lt;/h4&gt;
+
+&lt;p&gt;是的，为了避免惨剧的再次发生，你必须要思考这个问题。&lt;/p&gt;
+
+&lt;p&gt;我这里就以Google Reader为例，其实我想你和我一样知道，Google Reader基本是没有什么盈利模式的。首先它不收钱，其次它偶尔有段时间放了点几乎没人点的广告在不显眼的地方。归根结底，它是一个靠其他项目养着的项目。如果这种项目出自一个Google这样的上市大型公司，那么它迟早都会被关掉。&lt;/p&gt;
+
+&lt;h4&gt;为什么？大公司不是不缺钱吗？Google运营个Reader怎么了？&lt;/h4&gt;
+
+&lt;p&gt;我已经不止一次的听到过Google不缺钱，Google是个有着理想主义色彩的公司的论调了。其实我想说，一个上市公司的唯一理想就是（也应该是）让股东利益最大化。一切和这个背道而驰的理想都应该砍掉。和你现在公司缺不缺钱根本就不应该有关系。所以Google砍掉Reader理所当然，要怪只能怪我们当时没选对，或者说他没给我们机会付他钱。&lt;/p&gt;
+
+&lt;p&gt;那么我们假设一下，如果是一个3-5个人的精英小团队在运营Reader呢？或许他们的唯一理想就是让这个服务每天更好用一些，每天更稳定一些（而不是要去搞一个和Facebook一样的社交网络）。但是作为代价，他们必须每月向你收取少许的费用。如果这样你会使用这个服务吗？真若如此，会不会避免今天的惨剧？&lt;/p&gt;
+
+&lt;p&gt;在我看来盈利模式清晰的软件才是值得使用的，如果你都能想到你打算使用的软件没法赚钱，那么你应该重新考虑你是否做出了一个正确的选择。（公益和部分开源软件除外）&lt;/p&gt;
+
+&lt;h4&gt;什么才叫盈利模式清晰？&lt;/h4&gt;
+
+&lt;p&gt;我听过一句很经典的话，一切商业的本质就是 “Buy for a dollar, sell for two.”&lt;/p&gt;
+
+&lt;p&gt;其他任何形式的盈利模式都逃不过这个本质，而很多眼花缭乱的其他模式听起来总是让人头痛。&lt;/p&gt;
+
+&lt;p&gt;所以其实在我看来最清晰的商业模式就是最贴近本质的模式，他们给你软件，你付他们钱。&lt;/p&gt;
+
+&lt;h2&gt;Buy it&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/5157dfa64017a4ee9400001c/85d3a970b46a07bd99b5f5939330fc65/PF-DC_1936054b.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;如果我们使用Google Reader真是我们选择不当，活该我们伤心，那么仙剑和QuickSilver的例子怎么解释？&lt;/p&gt;
+
+&lt;p&gt;盈利模式清晰的软件也有可能挂掉。没有什么一定可行的方法可以让一个软件永远长青。&lt;/p&gt;
+
+&lt;p&gt;但是我知道一个相对朴素，直接且很有效的方法那么就是 “Buy it”!&lt;/p&gt;
+
+&lt;p&gt;在人们进入共产主义社会之前，我不认为有比这个更好的方法。:)&lt;/p&gt;
+
+&lt;p&gt;如果你喜欢一个软件或者服务，那么你能做的最好的事情就是买他。&lt;/p&gt;
+
+&lt;p&gt;如果你喜欢一个开源或者免费的项目，你可以试着给他们捐钱。&lt;/p&gt;
+
+&lt;p&gt;最后祝愿你喜欢的软件长青。&lt;/p&gt;
+
+&lt;h2&gt;BTW:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  其实我是一个理想主义者，但即使如此，我也只相信几个人的小团队更有可能是理想主义色彩浓厚的公司，至少他们不一定是追求利益最大化的。Google或许以前是，现在最多算是个创始人有理想主义色彩的商业公司了。&lt;/li&gt;
+&lt;li&gt;  我很喜欢 &lt;a href="http://writings.io/"&gt;writings.io&lt;/a&gt;，所以我把blog迁移过来了。希望他能长青，所以我购买了他的Pro账号。如果你和我一样喜欢，那就动手购买吧。:)&lt;/li&gt;
+&lt;li&gt;  还有我们的 &lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;, 也是走这样模式并希望给小团队解决项目管理问题的在线软件。有机会可以试用一下，如果觉得有帮助... 别忘了支持我们.  :p&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <guid>tag:terrytai.com,article.url</guid>
+      <pubDate>2013-04-25T01:22:00Z</pubDate>
+      <category>software</category>
+    </item>
+    <item>
+      <title>如何使用GarageBand和Skype录制Podcast</title>
+      <link>http://terrytai.com/how-to-use-garageband-and-skype-recording-podcast</link>
+      <description type="html">&lt;p&gt;上周Daniel, Dingding 和我一起录制我们的第一期Podcast。 我们的核心成员还有Kevin Wang，他会在即将推出的第二期和大家见面。&lt;/p&gt;
+
+&lt;p&gt;这篇文章主要是分享一下第一期的录制方法，以免我的同伴们重复研究。如果你也有需求录制Skype call，那么希望对你也有所帮助。&lt;/p&gt;
+
+&lt;p&gt;首先整个录制过程需要用到三个软件：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; &lt;a href="http://www.apple.com.cn/ilife/garageband/"&gt;GarageBand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="http://cycling74.com/products/soundflower/"&gt;Soundflower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt; &lt;a href="http://rogueamoeba.com/freebies/"&gt;LineIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;GarageBand 应该不用多做介绍，大家都很熟悉了。&lt;/p&gt;
+
+&lt;p&gt;我这里着重介绍一下 Soundflower 和 LineIn。 Soundflower本质上是一个虚拟声卡，它可以作为输入，也可以作为输出。 而它的作用是为了把声音从一个应用传到另一个硬件里。&lt;/p&gt;
+
+&lt;p&gt;以我们podcast为例，我们需要用GarageBand录制Skype里其他成员的声音。所以我们需要把声音从Skype这个应用里传输到GarageBand里。 而做法实际上就是把Skype的输出从耳机换成虚拟的Soundflower设备, 而在GarageBand里把输入从话筒改为Soundflower。 这样当你同伴说话时，声音就传入GarageBand被录下来了。&lt;/p&gt;
+
+&lt;p&gt;但这样就会导致另外一个问题，我们GarageBand的输入被设置成了Soundflower这个虚拟设备。 这样虽然能录下来Skype里其他同伴的声音，但我们自己的声音就不能被GarageBand录到。 所以我们需要让我们自己的声音也进入Soundflower。&lt;/p&gt;
+
+&lt;p&gt;此时就需要LineIn登场了。LineIn的作用也十分简单，它能把一个输入设备的输入，直接在另一个输出设备中播放。举例来说， 你如果想通过耳机听到你自己在话筒里说话的声音， 那么你就可以把话筒作为输入，然后在你的耳机里播放。这样你自己就能听到自己说话了。&lt;/p&gt;
+
+&lt;p&gt;而这里我们需要把我话筒里的声音也转发到Soundflower里，这样GarageBand就能同时录制到我和我同伴的声音了。&lt;/p&gt;
+
+&lt;p&gt;问题还没有完全解决，虽然GarageBand能录到Soundflower里的声音。但是我们自己如何才能同时又听到Soundflower里的声音呢？ 方法也很简单，我们需要打开GarageBand的“监听器”，这样Soundflower里的声音就可以在耳机里被监听了。 当然这样仍然有点美中不足，那就是你说话的时候会听到自己声音的。Anyway, 这也不算个太大的缺点。多说两句话就能习惯了。&lt;/p&gt;
+
+&lt;p&gt;如果你对以上原理并无兴趣，没关系，你只要按照以下图示进行设置即可：&lt;/p&gt;
+
+&lt;h3&gt;Skype 声音设置：&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="http://cl.ly/image/3G0K0f0P0s2x/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202013-02-01%20%E4%B8%8A%E5%8D%8812.26.33.png" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;GarageBand 声音设置&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="http://f.cl.ly/items/1f0N0c1l3c0G0E2A3e29/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202013-02-01%20%E4%B8%8A%E5%8D%8812.27.08.png" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;GarageBand 监听功能设置&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="http://f.cl.ly/items/0n0G3A0h1p2C2D123T2e/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202013-02-01%20%E4%B8%8A%E5%8D%8812.27.20.png" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;LineIn 设置&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src="http://f.cl.ly/items/092P371p0k0B0P0X1H1X/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202013-02-01%20%E4%B8%8A%E5%8D%8812.26.54.png" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;参考&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  &lt;a href="http://umwdtlt.org/newmedia/recording-a-skype-call-for-a-podcast-for-free-mac/"&gt;Recording a Skype Call for a Podcast for Free&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;  &lt;a href="http://digitalmediacookbook.com/recording-a-skype-call-using-garageband-soundflower-and-linein/"&gt;Recording a Skype Call Using GarageBand, SoundFlower, and LineIn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <guid>tag:terrytai.com,article.url</guid>
+      <pubDate>2013-04-05T01:22:00Z</pubDate>
+      <category>podcast</category>
+    </item>
+    <item>
+      <title>A Refactor Session For Re-education In ThoughtWorks</title>
+      <link>http://terrytai.com/a-refactor-session-for-re-education-in-thoughtworks</link>
+      <description type="html">&lt;h3&gt;背景：&lt;/h3&gt;
+
+&lt;p&gt;前段时间受成都社区Lite的邀请，参与了&lt;a href="https://github.com/twers/re-education"&gt;Re-education&lt;/a&gt;的一些重构工作。这个项目是一个公益项目，它是一个老师的协作和交流平台，帮助老师更好的设计课程，从而让更多学校的学生受益。说来这也是我第一次参与公益项目的开发，也算是对公益事业尽一些绵薄之力吧。&lt;/p&gt;
+
+&lt;p&gt;这个项目目前已经上线&lt;a href="http://newclass.org/"&gt;openclass.org&lt;/a&gt;, 并且代码也已经&lt;a href="https://github.com/twers/re-education"&gt;开源&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;之前这个项目主要是由 ThoughWorks 成都的几个工程师在负责开发和设计。同样也非常敬佩他们对公益事业的热衷和支持。&lt;/p&gt;
+
+&lt;p&gt;整个重构过程有我，&lt;a href="http://yedingding.com/"&gt;Dingding&lt;/a&gt;, Soloara参与，目前Rails端的重构， 已经基本告一段落。 而后我要离开成都一段时间，所以离开之前在ThoughtWorks做了一个Presentation。总结了一下整个重构过程，希望能对整个项目组有一定的帮助。&lt;/p&gt;
+
+&lt;p&gt;BTW: 还要特别感谢 Dingding 同学做了一次 Live Show 讲解重构代码中的一些细节。此次&lt;a href="http://railscasts-china.com/episodes/refactor-openclass-by-dingding"&gt;Live Show的视频&lt;/a&gt;也已经在&lt;a href="http://railscasts-china.com/"&gt;Railscasts-china&lt;/a&gt;发布了。&lt;/p&gt;
+
+&lt;p&gt;Keynote：&lt;/p&gt;
+
+&lt;p&gt;    &lt;a href="https://speakerdeck.com/poshboytl/refactoring-re-education"&gt;https://speakerdeck.com/poshboytl/refactoring-re-education&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;总结和解释：&lt;/h3&gt;
+
+&lt;p&gt;其中有几点需要注意一下:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; 一般在做重构的时候，特别是重构规模比较大的时候。通常内部接口是会发生变化的，所以unit tests通常是会failed的，而integration tests将是你正确重构下去的基础和保证。所以如果项目没有integration tests. 在重构之前添加上还是很有必要的。&lt;/li&gt;
+&lt;li&gt; Rspec or Cucumber都是写 integration tests 不错的选择，这取决于你团队的爱好。我选择 Rspec + Capybara只是一个个人爱好问题。&lt;/li&gt;
+&lt;li&gt; “Slim controllers, fat models” 这种提法在以前比较流行。但是已经越来越少有人提了，特别是“Fat models&amp;quot;。的确很多项目的model已经太fat, 需要通过各种方式来进行减肥。 Concern也好，抽出到lib也好，都是不错的选择。但是我相信 slim controllers 仍然是永恒不变的，且值得遵守的。&lt;/li&gt;
+&lt;li&gt; 最后我也提到了一些开源项目工作流程上的问题。里面有说 &amp;quot;Almost never push codes to master straightly. Create branch for every ticket.” 当时在讲到这里的时候引起了一些争论，主要争论点在给每个ticket建立branch有什么好处。我觉得好处主要还是更好利用pull request 做代码级别的沟通和review。更多相关的方法学可以参见Zack Holman的&lt;a href="http://zachholman.com/talk/how-github-uses-github-to-build-github/"&gt;presentation&lt;/a&gt;。不光是开源项目，我们在&lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;的开发中也是一直贯彻这种思想并且受益良多。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;最后，希望它对你有所帮助。&lt;/p&gt;
+
+&lt;p&gt;Keep rocking…&lt;/p&gt;
+</description>
+      <guid>tag:terrytai.com,article.url</guid>
+      <pubDate>2013-03-30T01:22:00Z</pubDate>
+      <category>refactor</category>
+    </item>
+    <item>
+      <title>集成 Hubot 和 Hudson CI</title>
+      <link>http://terrytai.com/integrated-hubot-and-hudson-ci</link>
+      <description type="html">&lt;p&gt;首先要感谢 Github 创造了 Hubot，而且还将其开源。我相信这样如此有趣且如此具有geek血统的东西，只有在类似 Gitbub这样充满geek文化且环境宽松的公司里才能被创造出来。&lt;/p&gt;
+
+&lt;p&gt;很荣幸的是我也能在 Intridea 这样一个环境非常宽松且充满geeks的环境里工作。所以，在Hubot开源的第一时间，咱们的 Dingding 和 Jan 就各自架了自己的 ircbot 并开发了新功能，然后入住到我们平时工作的 irc channel (是的，你没有看错，我们通过irc交流，当然这包括工作和“感情”。)&lt;/p&gt;
+
+&lt;p&gt;他们的两个bot一个叫mm(妹妹), 一个叫gg(哥哥)。这直接造成的结果就是所有 Intridean 的员工就像全民调戏 Siri 一样，只对mm感兴趣,于是gg的新功能就被忽略了。这直接导致了我们立即merge两个bot的功能，然后只允许mm的存在。&lt;/p&gt;
+
+&lt;p&gt;为了更好的“调戏”mm并且提高我们的工作效率，再加上对 Hubot 以及 CoffeeScript（ Hubot 是由 CoffeeScript with Node 写的）的好奇。我决定再为我们的mm加一个新功能。就是和我们的 Hudson CI 服务器做一些集成。&lt;/p&gt;
+
+&lt;p&gt;主要要达到的效果是，我们能从irc里让mm就告诉我们现在 CI server 的状况。并且可以很方便通过mm触发我们的build。如图：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/51564b134017a4de4000002f/5502d1f4e0a6e355ecbcb193b76f7fa5/hubot1.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="https://writingsio.s3.amazonaws.com/attachments/51564cb94017a4410d0001ae/d692ed10d07064b7fbd74c87fda5637a/hubot2.png" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;代码：&lt;/h3&gt;
+
+&lt;p&gt;要达到这样的功能我们只需要写一个新的hubot-script即可。请让我先把代码贴出来。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# Track the status and trigger buid for hudson CI.
+#
+# ci list all/projects - list all the projects on Hudson
+# ci status &amp;lt;project name&amp;gt; - see a project&amp;#39;s status
+# ci build &amp;lt;project name&amp;gt; - triger a build on hudson
+
+Http = require &amp;#39;http&amp;#39;
+QS   = require &amp;#39;querystring&amp;#39;
+
+module.exports = (robot) -&amp;gt;
+  host = process.env.HUBOT_CI_HOST
+  port = process.env.HUBOT_CI_PORT
+  user = process.env.HUBOT_CI_USER
+  password = process.env.HUBOT_CI_PASSWORD
+  auth     = new Buffer(user + &amp;#39;:&amp;#39; + password).toString(&amp;quot;base64&amp;quot;)
+  headers  = &amp;#39;Authorization&amp;#39;: &amp;#39;Basic &amp;#39; + auth
+  error_message = &amp;quot;WTF... Is the Hudson down or it&amp;#39;s crazy? I can&amp;#39;t parse what it said.&amp;quot;
+
+  options = (method, path) -&amp;gt;
+    {host: host, port: port, method: method, path: path, headers: headers}
+
+  request = (method, path, params, callback) -&amp;gt;
+    req = Http.request options(method, path), (response) -&amp;gt;
+      data = &amp;quot;&amp;quot;
+      response.setEncoding
+      response.on &amp;quot;data&amp;quot;, (chunk) -&amp;gt;
+        data += chunk
+      response.on &amp;quot;end&amp;quot;, -&amp;gt;
+        callback data
+    req.write params
+    req.end()
+
+
+  list = (parameter, msg) -&amp;gt;
+    switch parameter
+      when &amp;quot;all&amp;quot;, &amp;quot;projects&amp;quot;
+        path = &amp;quot;/api/json&amp;quot;
+        param = QS.stringify {}
+        request &amp;#39;GET&amp;#39;, path, param, (data) -&amp;gt;
+          try
+            json = JSON.parse(data)
+            if json
+              for i of json.jobs
+                name = json.jobs[i].name
+                status = if json.jobs[i].color == &amp;quot;red&amp;quot; then &amp;quot;FAILING&amp;quot; else &amp;quot;SUCCESS&amp;quot;
+                url = json.jobs[i].url
+                msg.send(&amp;quot;name: #{name}, status: #{status}, url: #{url}&amp;quot;)
+          catch e
+            msg.send error_message
+
+  status = (parameter, msg) -&amp;gt;
+    path = &amp;quot;/api/json&amp;quot;
+    param = QS.stringify {}
+    request &amp;#39;GET&amp;#39;, path, param, (data) -&amp;gt;
+      try
+        json = JSON.parse(data)
+        if json
+          match = false
+          for i of json.jobs
+            if parameter == json.jobs[i].name
+              match = true
+              status = if json.jobs[i].color == &amp;quot;red&amp;quot; then &amp;quot;FAILING&amp;quot; else &amp;quot;SUCCESS&amp;quot;
+              url = json.jobs[i].url
+              msg.send(&amp;quot;status: #{status}, url: #{url}&amp;quot;)
+
+          msg.send(&amp;quot;Hmmm... Are you kidding me? Please input the right project name. Or you can use &amp;#39;ci list projects&amp;#39; to list all projects.&amp;quot;) unless match
+      catch e
+        msg.send error_message
+
+  build = (parameter, msg) -&amp;gt;
+    path = &amp;quot;/job/#{parameter}/build&amp;quot;
+    param = QS.stringify {}
+    request &amp;#39;GET&amp;#39;, path, param, (data) -&amp;gt;
+      msg.send(&amp;quot;I have told Hudson, please wait...&amp;quot;)
+
+  robot.respond /ci (.*) (.*)/i, (msg) -&amp;gt;
+    command = msg.match[1]
+    parameter = msg.match[2]
+    switch command
+      when &amp;quot;list&amp;quot; then list(parameter, msg)
+      when &amp;quot;status&amp;quot; then status(parameter, msg)
+      when &amp;quot;build&amp;quot; then build(parameter, msg)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;解释:&lt;/p&gt;
+
+&lt;p&gt;其实代码非常简单和直观，不到一百行就实现我们需要的功能。 其中值得提到的有三点：&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; 注释部分。其作用主要是给你这个 hubot-script 提供的命令格式和作用做一个简要说明。方便大家在irc 输入“mm: hlep”查询的时候，可以详细的列出来。&lt;/li&gt;
+&lt;li&gt; 写一个 hubot-script 本质上就是要实现它的 robot.respond 方法。它负责处理输入和输出，也就是解析人们给它的命令，并做出相应的返回。这里 robot.respond 就是整个hubot-script的入口。&lt;/li&gt;
+&lt;li&gt; 实现原理来讲，主要就是 hubot 通过 http 和 Hudson CI 服务器进行通讯。虽然 Hudson CI 的API不算强大，但是基本的功能还是有的，并且其支持json作为返回格式。整个程序其实也就用到了两个api一个是”/api/json”，其会以json的方式列出所有项目的情况。只要对json略微做一下 parse，就可以得到具体你需要的细节。还用到的一个api是 “/job//build”, 请求相应项目的这个地址，就会触发 Hudson 对这个项目做一次 build。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3&gt;总结：&lt;/h3&gt;
+
+&lt;p&gt;其实简单的一个小功能，真能提高你团队的效率。有了这个功能，我不再需要登陆到 Hudson CI 服务器的页面点来点去，去查看项目的情况或去手动点击build一个job。而且我每次的操作其他 team members 也是能从irc看到结果的。如果有了什么异常，大家也都知道。不再需要我去告诉大家需要注意。&lt;/p&gt;
+
+&lt;p&gt;或许这样一个小功能提高的效率还很有限，但是一个一个累积起来的方便，就不容忽视了。它会大大的提高你团队的效率。&lt;/p&gt;
+
+&lt;p&gt;比如，Jan 同学写的 集成 Unfuddle 的功能也非常实用。我们可以不登陆那慢如蜗牛的 Unfuddle 就能在irc里查询 ticket 的情况。 又比如, Dingding 同学写的在irc里给不在线的 team members 发 email notification 的功能。也是非常的方便和有效。 上述提到的几个功能都在这里可以找到：&lt;a href="https://github.com/janx/hubot-scripts"&gt;https://github.com/janx/hubot-scripts&lt;/a&gt; 要不，你也试试？ :)&lt;/p&gt;
+</description>
+      <guid>tag:terrytai.com,article.url</guid>
+      <pubDate>2013-03-29T01:22:00Z</pubDate>
+      <category>ci, hubot</category>
+    </item>
+  </channel>
+</rss>
