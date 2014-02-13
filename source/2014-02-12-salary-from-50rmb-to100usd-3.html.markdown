@@ -115,4 +115,4 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 
 6. 研究黑客技术的时候，千万别找认识的人下手，最好自己搭个站来玩，避免引起不必要的误会. >.<
 
-无耻小广告一枚： 我们的 Pragmatic.ly 更名为 (Fengche.co)[https://fengche.co/] 了，而且做了全新的设计，很高端大气上档次哟。
+无耻小广告一枚： 我们的 Pragmatic.ly 更名为 [Fengche.co](https://fengche.co/) 了，而且做了[全新的设计](https://fengche.co/blog/new-year-new-branding/)，很高端大气上档次哟。
