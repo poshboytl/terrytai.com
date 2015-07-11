@@ -11,8 +11,6 @@ author: terry
 
 ### 需要考虑什么？
 
-![](https://writingsio.s3.amazonaws.com/attachments/521c17dba6376c00bd00010e/e276ba0007a0424d022d6d438bf8520b/question_mark.jpg)
-
 上一篇文章一出，就有人问道：“在中国能找到允许在家上班工作？”-- 那是当然，因为我就曾在一家名叫 [Intridea](http://www.intridea.com/) 的软件公司工作过两年多。并在这里结识到非常多的优秀的程序员，我的两位创业伙伴 [Dingding](http://yedingding.com/), Ben 也都是在这里认识的。并且现在还有很多非常优秀的老朋友依然在这里工作得非常happy。你也许会说，Intridea不是一家美国公司吗？是的，有什么影响呢？作为一个打算 SOHO 的程序员你真的在乎你的公司是 based on 哪个国家的吗？当选择 SOHO 公司时，我个人认为你只需要考虑以下四个问题：
 
 1.  工作的内容是否是你感兴趣的
@@ -22,7 +20,7 @@ author: terry
 
 是的，如你看到的，没什么特别。你即使选择一家不允许在家上班的公司，你也仍然需要考虑这四个问题。但是区别在于你不用考虑如下问题了：
 
-![](https://writingsio.s3.amazonaws.com/attachments/521c1737a6376c00bd000109/2c14b6c15a3d7c757ee3a96c3e0109a8/liuchuanfeng.jpg)
+![](/images/liuchuanfeng.jpg)
 
 1.  不用考虑这个公司在哪个国家，哪个城市，哪个位置，离你家有多远。 （依稀记得，流川枫当年就因为这个选择了湘北）
 2.  不用考虑是否会因为公司在外地而被迫离开你的爱人或家人
@@ -37,7 +35,7 @@ author: terry
 
 ### 怎么找到这样的公司？
 
-![](https://writingsio.s3.amazonaws.com/attachments/521c1c2da6376c00bd00011c/ac39f43c2533b262c04fe3cc5dff5e73/xunzhao.jpg)
+![](/images/iwantyou.jpeg)
 
 不得不说，让员工在家里上班的公司仍然是属于小众的，你也可以说他们是超前的。但是找到他们并没有你想像的那么难。我们要怎么找到他们？在回答这个问题之前我们必须要了解一下**通常**这样的公司有什么样的特点和价值观：
 

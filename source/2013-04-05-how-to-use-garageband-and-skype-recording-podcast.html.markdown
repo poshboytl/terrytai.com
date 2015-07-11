@@ -33,19 +33,19 @@ GarageBand 应该不用多做介绍，大家都很熟悉了。
 
 ### Skype 声音设置：
 
-![](http://cl.ly/image/3G0K0f0P0s2x/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202013-02-01%20%E4%B8%8A%E5%8D%8812.26.33.png)
+![](/images/podcast_record_1.png)
 
 ### GarageBand 声音设置
 
-![](http://f.cl.ly/items/1f0N0c1l3c0G0E2A3e29/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202013-02-01%20%E4%B8%8A%E5%8D%8812.27.08.png)
+![](/images/podcast_record_2.png)
 
 ### GarageBand 监听功能设置
 
-![](http://f.cl.ly/items/0n0G3A0h1p2C2D123T2e/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202013-02-01%20%E4%B8%8A%E5%8D%8812.27.20.png)
+![](/images/podcast_record_3.png)
 
 ### LineIn 设置
 
-![](http://f.cl.ly/items/092P371p0k0B0P0X1H1X/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202013-02-01%20%E4%B8%8A%E5%8D%8812.26.54.png)
+![](/images/podcast_record_4.png)
 
 ### 参考
 

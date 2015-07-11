@@ -5,7 +5,7 @@ tags: soho, remote, work, freelance
 author: terry
 ---
 
-![](https://writingsio.s3.amazonaws.com/attachments/520d633ea6376c380e000079/32d3e1f754ddee9f7b02883a3667b530/soho.jpg)
+![](/images/soho.jpg)
  
 仔细算算自己在家上班已经有差不多4年了，所以回想起整个过程，只有一种感受，那就是再也回不去了。我相信很多在家工作多年的朋友也会有同样的感受，“自由”这东西一旦拥有就太难再放弃掉。
  
@@ -25,7 +25,7 @@ author: terry
  
 ### 做一名 Freelancer, 自己接项目
  
-![](https://writingsio.s3.amazonaws.com/attachments/520d604da6376c380e000076/2eeb3fee2ac3b078a67ec8c78443cecb/freelance.jpg)
+![](/images/freelancer.jpg)
  
 > Freelance这个词最早出现时是用来指称“中世纪的雇佣军骑士”，即“free-lance”; 随着时间推移，它慢慢被用于指称自由撰稿人(应该算自由职业中非常流行的行当，特别是在西方国家)，进而扩大至指称所有自由职业者们。
 >

@@ -5,7 +5,7 @@ tags: ruby, require, load
 author: terry
 ---
 
-![](https://writingsio.s3.amazonaws.com/attachments/517a53014017a4561a000230/bfb3a2863ae41f9a84f92846d787e5b8/shanzhai.jpg)
+![](/images/shanzhai.jpg)
 
 前几天被一个初学 Ruby 的同学问及 require 和 load 有什么区别。后来想想这个问题虽然答案并不难，但是还可以引申出不少可以探讨的内容。所以我打算通过山寨一个 require 和 load 的方法的形式，来阐述一些内容。
 
@@ -27,7 +27,7 @@ author: terry
     end
 
     person = Person.new("金将军", 30)
-    puts person.to_s  
+    puts person.to_s
 
 ## 先来山寨 load
 
