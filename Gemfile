@@ -1,6 +1,6 @@
 ruby "1.9.3"
 
-source :rubygems
+source 'http://ruby.taobao.org'
 
 gem "thin"
 gem "rack-contrib"
