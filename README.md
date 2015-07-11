@@ -1,6 +1,6 @@
 Terry Tai's Blog
 ========================
-[terrytai.com](http://terrytai.com)
+[terrytai.me](http://terrytai.me)
 
 This blog is created by [Middleman](http://middlemanapp.com/).
 

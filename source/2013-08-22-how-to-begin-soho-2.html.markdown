@@ -93,7 +93,7 @@ BTW, 有空的时候看看这两家公司的东西，开源项目也好，blog�
 
 #### 订阅我的社交媒体
 
-[我的Blog](http://terrytai.com/) 和 [我的weibo](http://weibo.com/poshboytl) 以及 [我的twitter](https://twitter.com/poshboytl)都会公布一些我所知道的远程工作机会。如果你有兴趣的话可以订阅哟 :D
+[我的Blog](http://terrytai.me/) 和 [我的weibo](http://weibo.com/poshboytl) 以及 [我的twitter](https://twitter.com/poshboytl)都会公布一些我所知道的远程工作机会。如果你有兴趣的话可以订阅哟 :D
 
 今天就在此公布一个：
 
