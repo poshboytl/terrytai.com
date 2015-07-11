@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <id>http://terrytai.com</id>
+    <id>http://terrytai.me</id>
     <title>Terr Tai's Blog</title>
-    <link>http://terrytai.com</link>
+    <link>http://terrytai.me</link>
     <language>zh-cn</language>
     <copyright>&amp;#x2117; &amp;amp; &amp;#xA9; 2015 Terry Tai</copyright>
-    <link href="http://terrytai.com"/>
-    <link href="http://terrytai.com/rss.xml" rel="self"/>
+    <link href="http://terrytai.me"/>
+    <link href="http://terrytai.me/rss.xml" rel="self"/>
     <updated>2014-02-12T03:00:00Z</updated>
     <lastBuildDate>2014-02-12T03:00:00Z</lastBuildDate>
     <pubDate>2014-02-12T03:00:00Z</pubDate>
@@ -17,7 +17,7 @@
     </author>
     <item>
       <title>我如何把薪水从 50人民币/天 提升到 100美元/小时的 (3)</title>
-      <link>http://terrytai.com/salary-from-50rmb-to100usd-3</link>
+      <link>http://terrytai.me/salary-from-50rmb-to100usd-3</link>
       <description type="html">&lt;p&gt;&lt;img alt="roushan.jpg" src="/images/roushan.jpg?1392187460" /&gt;&lt;/p&gt;
 
 &lt;p&gt;接上篇: &lt;a href="/salary-from-50rmb-to-100usd-2"&gt;我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)&lt;/a&gt;&lt;/p&gt;
@@ -65,7 +65,7 @@
 
 &lt;p&gt;那之后生活又回归了以前的充实，努力的备课，努力的上课，努力的上班，努力搞毕业设计... 不同的是，脑子里不是只有一件事情了，而是每天都有三件事情需要我去做好。这个过程我还很花了一些时间来平衡。但是想想现在同时有三件事情都算是轻松的了，不得不说那次的锻炼还是挺有帮助的。&lt;/p&gt;
 
-&lt;p&gt;那段时间我发现一个非常有意思的现象，就是要把你已经懂的东西讲得让别人也懂并不是一件容易的事情。而把别人讲懂的过程实际上也是一种再次学习的过程，也是更加深入理解的过程。所以多分享一些知识给别人绝对也是对自己很有帮助的事情，分享在我看来是一个利己利人的行为，这也是为什么我后来&lt;strong&gt;&lt;a href="http://terrytai.com/"&gt;写文章&lt;/a&gt;&lt;/strong&gt;，&lt;strong&gt;&lt;a href="http://railscasts-china.com/"&gt;录视频&lt;/a&gt;&lt;/strong&gt;，&lt;strong&gt;&lt;a href="http://teahour.fm/"&gt;做podcast&lt;/a&gt;&lt;/strong&gt; 分享我知道的知识。&lt;/p&gt;
+&lt;p&gt;那段时间我发现一个非常有意思的现象，就是要把你已经懂的东西讲得让别人也懂并不是一件容易的事情。而把别人讲懂的过程实际上也是一种再次学习的过程，也是更加深入理解的过程。所以多分享一些知识给别人绝对也是对自己很有帮助的事情，分享在我看来是一个利己利人的行为，这也是为什么我后来&lt;strong&gt;&lt;a href="http://terrytai.me/"&gt;写文章&lt;/a&gt;&lt;/strong&gt;，&lt;strong&gt;&lt;a href="http://railscasts-china.com/"&gt;录视频&lt;/a&gt;&lt;/strong&gt;，&lt;strong&gt;&lt;a href="http://teahour.fm/"&gt;做podcast&lt;/a&gt;&lt;/strong&gt; 分享我知道的知识。&lt;/p&gt;
 
 &lt;p&gt;等那个课程结束也差不多是毕业前夕了，我继续回到了以前的公司全职的上班。不久也被提升为了当时Ruby组的 leader，还要负责当时的技术面试和新人培养。工资也给开了 4000 人民币/月。 这在那时的成都可是一个相当不错的价格了，而且那也算是我的第一次晋升，按理我应该高兴才对。但我却怎么也高兴不起来，工作没有以前的那种基情，哦不，激情。当然依然是保质保量的完成，只是内心中总是觉得不满足，有种撞到天花板的感觉，还有对现实还有很多不满足，或者说觉得还有很多更好的空间。&lt;/p&gt;
 
@@ -126,13 +126,13 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 
 &lt;p&gt;无耻小广告一枚： 我们的 Pragmatic.ly 更名为 &lt;a href="https://fengche.co/"&gt;Fengche.co&lt;/a&gt; 了，而且做了&lt;a href="https://fengche.co/blog/new-year-new-branding/"&gt;全新的设计&lt;/a&gt;，很高端大气上档次哟。&lt;/p&gt;
 </description>
-      <guid>tag:terrytai.com,article.url</guid>
+      <guid>tag:terrytai.me,article.url</guid>
       <pubDate>2014-02-12T03:00:00Z</pubDate>
       <category>soho, remote, work, freelance, conference, teaching</category>
     </item>
     <item>
       <title>我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)</title>
-      <link>http://terrytai.com/salary-from-50rmb-to-100usd-2</link>
+      <link>http://terrytai.me/salary-from-50rmb-to-100usd-2</link>
       <description type="html">&lt;p&gt;&lt;img alt="Monroe.jpg" src="/images/Monroe.jpg?1392187460" /&gt;&lt;/p&gt;
 
 &lt;p&gt;接上篇: &lt;a href="/salary-from-50rmb-to-100usd"&gt;我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)&lt;/a&gt;&lt;/p&gt;
@@ -259,13 +259,13 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 
 &lt;p&gt;最后推荐一下我好基友的新文章: &lt;a href="http://yedingding.com/2013/12/03/improve-productivity-in-office.html"&gt;不要让办公室成为你的效率杀手&lt;/a&gt;&lt;/p&gt;
 </description>
-      <guid>tag:terrytai.com,article.url</guid>
+      <guid>tag:terrytai.me,article.url</guid>
       <pubDate>2013-12-02T17:23:00Z</pubDate>
       <category>soho, remote, work, freelance, english</category>
     </item>
     <item>
       <title>我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)</title>
-      <link>http://terrytai.com/salary-from-50rmb-to-100usd</link>
+      <link>http://terrytai.me/salary-from-50rmb-to-100usd</link>
       <description type="html">&lt;p&gt;这个标题看起来有点像标题党? 好吧, 我必须在全文开始之前就澄清一下这一点, 这是千真万确的事实. 我本可以只把一些结论贴在这里供大家参考, 但是那样显得太生硬且没有说服力. 所以我决定把整个故事告诉你, 并在每一篇的最后总结出结论, 这样会更轻松愉快一些. 我不敢说这个经历是否可复制, 但是我相信如果你的目标是做一个优秀的软件工程师, 软件咨询师, 或者是 freelancer的话. 它应该会对你有一些启发, 或者说借鉴的意义. 好了, 就让我们开始吧.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="zealot.jpg" src="/images/zealot.jpg?1436620581" /&gt;&lt;/p&gt;
@@ -367,13 +367,13 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 
 &lt;p&gt;好了, 第一次提薪就讲到这里, 100人民币/天 不算多, 但是对于07年的成都,和一个实习生来讲已经是很让人满足了. 什么? 还不够? 别急, 我们下回接着讲. 看看我们怎么到 100美元/小时的.&lt;/p&gt;
 </description>
-      <guid>tag:terrytai.com,article.url</guid>
+      <guid>tag:terrytai.me,article.url</guid>
       <pubDate>2013-11-18T01:23:00Z</pubDate>
       <category>soho, remote, work, freelance</category>
     </item>
     <item>
       <title>如何开始你的 SOHO 之旅 (2)</title>
-      <link>http://terrytai.com/how-to-begin-soho-2</link>
+      <link>http://terrytai.me/how-to-begin-soho-2</link>
       <description type="html">&lt;p&gt;没想到这个系列的&lt;a href="/how-to-begin-soho-1"&gt;上一篇文章&lt;/a&gt;受到了如此大的关注，很多朋友也提出了不少问题和疑惑，我也将尽可能的在这一篇或这个系列的未来几篇文章中给大家做出回答。这一篇blog还是让我们先按照主线来继续，来谈谈程序员开始SOHO的另外一条路：&lt;/p&gt;
 
 &lt;h2&gt;加入一个允许在家工作的公司&lt;/h2&gt;
@@ -468,7 +468,7 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 
 &lt;h4&gt;订阅我的社交媒体&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href="http://terrytai.com/"&gt;我的Blog&lt;/a&gt; 和 &lt;a href="http://weibo.com/poshboytl"&gt;我的weibo&lt;/a&gt; 以及 &lt;a href="https://twitter.com/poshboytl"&gt;我的twitter&lt;/a&gt;都会公布一些我所知道的远程工作机会。如果你有兴趣的话可以订阅哟 :D&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://terrytai.me/"&gt;我的Blog&lt;/a&gt; 和 &lt;a href="http://weibo.com/poshboytl"&gt;我的weibo&lt;/a&gt; 以及 &lt;a href="https://twitter.com/poshboytl"&gt;我的twitter&lt;/a&gt;都会公布一些我所知道的远程工作机会。如果你有兴趣的话可以订阅哟 :D&lt;/p&gt;
 
 &lt;p&gt;今天就在此公布一个：&lt;/p&gt;
 
@@ -476,13 +476,13 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 
 &lt;p&gt;最后无耻小广告一枚: 远程工作一定要用好的项目协作工具，看看我们家的 &lt;a href="https://pragmatic.ly"&gt;Pragmatic.ly&lt;/a&gt; 吧。你一定会喜欢的 ;)&lt;/p&gt;
 </description>
-      <guid>tag:terrytai.com,article.url</guid>
+      <guid>tag:terrytai.me,article.url</guid>
       <pubDate>2013-08-22T01:22:00Z</pubDate>
       <category>soho, remote, work, freelance</category>
     </item>
     <item>
       <title>如何开始你的 SOHO 之旅 (1)</title>
-      <link>http://terrytai.com/how-to-begin-soho-1</link>
+      <link>http://terrytai.me/how-to-begin-soho-1</link>
       <description type="html">&lt;p&gt;&lt;img src="/images/soho.jpg?1436617861" /&gt;&lt;/p&gt;
 
 &lt;p&gt;仔细算算自己在家上班已经有差不多4年了，所以回想起整个过程，只有一种感受，那就是再也回不去了。我相信很多在家工作多年的朋友也会有同样的感受，“自由”这东西一旦拥有就太难再放弃掉。&lt;/p&gt;
@@ -604,13 +604,13 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 
 &lt;p&gt;你可以 &lt;a href="http://weibo.com/poshboytl"&gt;加我微博&lt;/a&gt; 或 &lt;a href="https://twitter.com/poshboytl"&gt;加我推特&lt;/a&gt;，里面会有更多我 SOHO 相关的经验和心得。希望能和你多多交流和互动。&lt;/p&gt;
 </description>
-      <guid>tag:terrytai.com,article.url</guid>
+      <guid>tag:terrytai.me,article.url</guid>
       <pubDate>2013-08-15T01:23:00Z</pubDate>
       <category>soho, remote, work, freelance</category>
     </item>
     <item>
       <title>Ruby 基础篇之如何山寨 require 和 load</title>
-      <link>http://terrytai.com/ruby-basics-how-to-faux-require-and-load</link>
+      <link>http://terrytai.me/ruby-basics-how-to-faux-require-and-load</link>
       <description type="html">&lt;p&gt;&lt;img src="/images/shanzhai.jpg?1436617861" /&gt;&lt;/p&gt;
 
 &lt;p&gt;前几天被一个初学 Ruby 的同学问及 require 和 load 有什么区别。后来想想这个问题虽然答案并不难，但是还可以引申出不少可以探讨的内容。所以我打算通过山寨一个 require 和 load 的方法的形式，来阐述一些内容。&lt;/p&gt;
@@ -758,13 +758,13 @@ end
 
 &lt;p&gt;BTW, 最近我建立了一个 Ruby/Rails 学习QQ群 231618869，学习 Ruby/Rails 的同学可以在这里交流经验和你遇到的问题哟。&lt;/p&gt;
 </description>
-      <guid>tag:terrytai.com,article.url</guid>
+      <guid>tag:terrytai.me,article.url</guid>
       <pubDate>2013-04-26T01:22:00Z</pubDate>
       <category>ruby, require, load</category>
     </item>
     <item>
       <title>Buy It</title>
-      <link>http://terrytai.com/buy-it</link>
+      <link>http://terrytai.me/buy-it</link>
       <description type="html">&lt;p&gt;在我人生中我不幸的失去过很多软件。&lt;/p&gt;
 
 &lt;p&gt;比如当年的仙剑奇侠传（最初的狂徒工作室，因为仙剑销量不佳解散）：&lt;/p&gt;
@@ -838,13 +838,13 @@ end
 &lt;li&gt;  还有我们的 &lt;a href="https://pragmatic.ly/"&gt;Pragmatic.ly&lt;/a&gt;, 也是走这样模式并希望给小团队解决项目管理问题的在线软件。有机会可以试用一下，如果觉得有帮助... 别忘了支持我们.  :p&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <guid>tag:terrytai.com,article.url</guid>
+      <guid>tag:terrytai.me,article.url</guid>
       <pubDate>2013-04-25T01:22:00Z</pubDate>
       <category>software</category>
     </item>
     <item>
       <title>如何使用GarageBand和Skype录制Podcast</title>
-      <link>http://terrytai.com/how-to-use-garageband-and-skype-recording-podcast</link>
+      <link>http://terrytai.me/how-to-use-garageband-and-skype-recording-podcast</link>
       <description type="html">&lt;p&gt;上周Daniel, Dingding 和我一起录制我们的第一期Podcast。 我们的核心成员还有Kevin Wang，他会在即将推出的第二期和大家见面。&lt;/p&gt;
 
 &lt;p&gt;这篇文章主要是分享一下第一期的录制方法，以免我的同伴们重复研究。如果你也有需求录制Skype call，那么希望对你也有所帮助。&lt;/p&gt;
@@ -896,13 +896,13 @@ end
 &lt;li&gt;  &lt;a href="http://digitalmediacookbook.com/recording-a-skype-call-using-garageband-soundflower-and-linein/"&gt;Recording a Skype Call Using GarageBand, SoundFlower, and LineIn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-      <guid>tag:terrytai.com,article.url</guid>
+      <guid>tag:terrytai.me,article.url</guid>
       <pubDate>2013-04-05T01:22:00Z</pubDate>
       <category>podcast</category>
     </item>
     <item>
       <title>A Refactor Session For Re-education In ThoughtWorks</title>
-      <link>http://terrytai.com/a-refactor-session-for-re-education-in-thoughtworks</link>
+      <link>http://terrytai.me/a-refactor-session-for-re-education-in-thoughtworks</link>
       <description type="html">&lt;h3&gt;背景：&lt;/h3&gt;
 
 &lt;p&gt;前段时间受成都社区Lite的邀请，参与了&lt;a href="https://github.com/twers/re-education"&gt;Re-education&lt;/a&gt;的一些重构工作。这个项目是一个公益项目，它是一个老师的协作和交流平台，帮助老师更好的设计课程，从而让更多学校的学生受益。说来这也是我第一次参与公益项目的开发，也算是对公益事业尽一些绵薄之力吧。&lt;/p&gt;
@@ -934,13 +934,13 @@ end
 
 &lt;p&gt;Keep rocking…&lt;/p&gt;
 </description>
-      <guid>tag:terrytai.com,article.url</guid>
+      <guid>tag:terrytai.me,article.url</guid>
       <pubDate>2013-03-30T01:22:00Z</pubDate>
       <category>refactor</category>
     </item>
     <item>
       <title>集成 Hubot 和 Hudson CI</title>
-      <link>http://terrytai.com/integrated-hubot-and-hudson-ci</link>
+      <link>http://terrytai.me/integrated-hubot-and-hudson-ci</link>
       <description type="html">&lt;p&gt;首先要感谢 Github 创造了 Hubot，而且还将其开源。我相信这样如此有趣且如此具有geek血统的东西，只有在类似 Gitbub这样充满geek文化且环境宽松的公司里才能被创造出来。&lt;/p&gt;
 
 &lt;p&gt;很荣幸的是我也能在 Intridea 这样一个环境非常宽松且充满geeks的环境里工作。所以，在Hubot开源的第一时间，咱们的 Dingding 和 Jan 就各自架了自己的 ircbot 并开发了新功能，然后入住到我们平时工作的 irc channel (是的，你没有看错，我们通过irc交流，当然这包括工作和“感情”。)&lt;/p&gt;
@@ -1061,7 +1061,7 @@ module.exports = (robot) -&amp;gt;
 
 &lt;p&gt;比如，Jan 同学写的 集成 Unfuddle 的功能也非常实用。我们可以不登陆那慢如蜗牛的 Unfuddle 就能在irc里查询 ticket 的情况。 又比如, Dingding 同学写的在irc里给不在线的 team members 发 email notification 的功能。也是非常的方便和有效。 上述提到的几个功能都在这里可以找到：&lt;a href="https://github.com/janx/hubot-scripts"&gt;https://github.com/janx/hubot-scripts&lt;/a&gt; 要不，你也试试？ :)&lt;/p&gt;
 </description>
-      <guid>tag:terrytai.com,article.url</guid>
+      <guid>tag:terrytai.me,article.url</guid>
       <pubDate>2013-03-29T01:22:00Z</pubDate>
       <category>ci, hubot</category>
     </item>
