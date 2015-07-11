@@ -268,7 +268,7 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
       <link>http://terrytai.com/salary-from-50rmb-to-100usd</link>
       <description type="html">&lt;p&gt;这个标题看起来有点像标题党? 好吧, 我必须在全文开始之前就澄清一下这一点, 这是千真万确的事实. 我本可以只把一些结论贴在这里供大家参考, 但是那样显得太生硬且没有说服力. 所以我决定把整个故事告诉你, 并在每一篇的最后总结出结论, 这样会更轻松愉快一些. 我不敢说这个经历是否可复制, 但是我相信如果你的目标是做一个优秀的软件工程师, 软件咨询师, 或者是 freelancer的话. 它应该会对你有一些启发, 或者说借鉴的意义. 好了, 就让我们开始吧.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="zealot.jpg" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/xgv3ePk5SPmn4anwN94F_zealot.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="zealot.jpg" src="/images/zealot.jpg?1436620581" /&gt;&lt;/p&gt;
 
 &lt;p&gt;故事开始是在差不多六年前, 那时我还在大学, 和大多的学生一样, 每天玩玩星际, 打打篮球, 看看妹纸, 当然也帮系里写写程序(Java). 同样和大多数无知的学生一样, 都会犯一些认识上的错误, 比如, 我当时真的认为 Java 很酷。&lt;/p&gt;
 
@@ -278,20 +278,20 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 
 &lt;p&gt;接下来的好几个月, 非常单纯, 看书, 敲代码(书里的代码我来回敲了至少有5遍，我几乎可以把那个“书店”的程序背着敲下来), 除了看书, 我还订阅了几个不多的Ruby/Rails Blog, 学习一些关于 Ruby/Rails 好的实践. 这个过程是痛并快乐的，那时我几乎没法请教任何人（我严重怀疑我是学校第一个学Rails的), 除了问人, 那时连搜索的资料都没多少. 现在回想一下，其实我走了很多的弯路，如果换作现在，我相信这个学习的时间可以再大大的缩短的.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="hardworking.gif" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/A4EL7IRPT0goyEeFHigI_hardworking.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="hardworking.gif" src="/images/hardworking.gif?1436620582" /&gt;&lt;/p&gt;
 
 &lt;p&gt;差不多自学了有5-6个月, 并自己敲了个论坛和博客程序后, 我决定出门去找个实习的机会. 看看真正世界的工程师是怎么玩的. 这种感觉很强烈, 就像我初中玩星际时, 除了和同学玩局域网, 总是想上战网上看看别的高手是怎么玩的. 如果记得没错, 那时我才刚刚上大三, 决定这么早出去实习实际上和家庭也有一定关系, 我迫切的想要自立. (具体的原因 is a secret)&lt;/p&gt;
 
 &lt;p&gt;我所在的城市只有两家用 Rails 的公司, 我投了其中一家。没想到直接就中了, 原因也很简单. 他们从来没有期待过能找到一个懂 Rails 的人, 他们都只是想的招进来再培养. 既然有个现成的, 那肯定得要了. (至今这种情况在很多地方都很普遍)&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="50.jpg" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/jeY0NnTqTBi8kU3T54gt_50.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="50.jpg" src="/images/50.jpg?1436620581" /&gt;&lt;/p&gt;
 
 &lt;p&gt;那个美女HR给我说得很清楚，我还没毕业, 所以只能按照实习生的标准给我发工资, 算下来也就是50人民币一天. 07年成都的物价还是蛮低的, 50一天基本可以吃饱喝足了.  记得当时还签了不少文件, 我也没太注意细节, 只是不断的确认工作内容是写代码，不是援交什么的就好。现在想起来，我当时确实想多了, 50人名币一天做援交, TM会有人会做吗? 
 至少应该60嘛.&lt;/p&gt;
 
 &lt;p&gt;办好入职, 来到办公桌, 下载我要做的第一个项目, 这个项目是一个社交应用,一个同事, 让我看看代码, 不懂的地方问他. 下载代码的时候内心非常紧张和激动, 希望看看运行在真实世界的代码到底长什么样.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="jy.jpg" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/Wu2sOSzdSoyFIsDo8qsu_jy.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="jy.jpg" src="/images/qbzj.jpg?1436620581" /&gt;&lt;/p&gt;
 
 &lt;p&gt;结果当我仔细翻看代码后, 大失所望, 这个代码基本违反了所有我在先前学习到的最佳实践. 我觉得这个是有难度的, 不亚于用枪兵甩地刺, 不亚于甩狙爆3个头, 不亚于蓝胖子连续10次出四倍.... 我沉默了很久, 在思考是保持沉没，还是去找同事问个明白，最终，我还是鼓起勇气，决定去和同事表白 ... oh, 不是，是说出我真实的想法。&lt;/p&gt;
 
@@ -313,7 +313,7 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 
 &lt;p&gt;这回答让我愣在那里久久回不过神来, 第一次感受到, 原来真实的社会这么恐怖. 当我意识到我的问题不受欢迎时, 我比较自觉的回到了自己的座位. 心想以后和他当不了朋友了, 至少基友是肯定当不了了.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="boss.jpg" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/fup6ju0xSDqbuCGkvgv3_boss.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="boss.jpg" src="/images/big_boss.jpg?1436620581" /&gt;&lt;/p&gt;
 
 &lt;p&gt;接着, 我把项目的几乎所有功能都跑了一遍, 惊奇的发现, 它尽然能跑, 而且基本的功能也都实现了. 内心突然开始纠结一个问题, 到底是能跑就够了? 还是只能跑还远远不够呢? 还没等我想清楚, 公司的老板（男）突然叫去旁边的小房间：&lt;/p&gt;
 
@@ -338,12 +338,12 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 &lt;p&gt;接下来的时光
 ....&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="working.png" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/x2OiPFM1TGsra6kzio47_working.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="working.png" src="/images/working.png?1436620581" /&gt;&lt;/p&gt;
 
 &lt;p&gt;可能是我这辈子学习效率最高的时光, 接触了一大堆以前都没怎么听过的概念, TDD, Continuous integration, Pair, Scrum, Refactor, Deployment...
 这里面任何一个单独的概念都足以写好几本书, 并够我研究上好一整子. 但可惜的是没有这么多时间让我先看完所有相关的书, 再开始干活, 于是边干边学成了我唯一选择. 先知道一些粗浅的概念, 然后开始干, 通过 Tim 的反馈再结合自己遇到的问题, 然后针对性的看书和 google 资料. &lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="100.jpg" src="http://user-image.logdown.io/user/4013/blog/4068/post/159936/2blkRoaT61V7iiBPnDeQ_100.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="100.jpg" src="/images/100.jpg?1436620581" /&gt;&lt;/p&gt;
 
 &lt;p&gt;如此反复, 慢慢我已经可以基本跟上 Tim 的节奏了, 他也越来越喜欢我(不是那种喜欢). 并给了我非常不错的评价, 客户也因此非常开心. 这让老板对我刮目相看. 几乎快丢掉的一个项目尽然被挽回了.
 于是我很快得到了加薪. 如果我没记错, 是增长了一倍, 达到了100人民币一天. 据说这已经是公司给我破例了, 因为实习生是拿不到这个数字的. 我当时真的非常开心, 我可以不需要老妈给我一分生活费了, 这意味着我某种程度上自立了, 最重要的是我觉得我真的学到好多东西, 我做出的贡献得到了认同.&lt;/p&gt;
