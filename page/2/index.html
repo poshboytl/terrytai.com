@@ -36,8 +36,8 @@
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link href="/stylesheets/application.css?1436611754" media="screen" rel="stylesheet" type="text/css" />
-    <script src="/javascripts/application.js?1436611753" type="text/javascript"></script>
+    <link href="/stylesheets/application.css?1436617864" media="screen" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/application.js?1436617864" type="text/javascript"></script>
 
   </head>
   <body class="page page_2 page_2_index">
@@ -105,7 +105,7 @@
 </aside>
 
 <div class="content">
-  <p><img src="https://writingsio.s3.amazonaws.com/attachments/517a53014017a4561a000230/bfb3a2863ae41f9a84f92846d787e5b8/shanzhai.jpg" /></p>
+  <p><img src="/images/shanzhai.jpg?1436617861" /></p>
 
 <p>前几天被一个初学 Ruby 的同学问及 require 和 load 有什么区别。后来想想这个问题虽然答案并不难，但是还可以引申出不少可以探讨的内容。所以我打算通过山寨一个 require 和 load 的方法的形式，来阐述一些内容。</p>
 
@@ -127,7 +127,7 @@
 end
 
 person = Person.new(&quot;金将军&quot;, 30)
-puts person.to_s  
+puts person.to_s
 </code></pre>
 
 <h2>先来山寨 load</h2>
@@ -144,6 +144,10 @@ $ ruby try_load_require.rb
 My name is 金将军 and I&#39;m 30 years old!
 My name is 金将军 and I&#39;m 30 years old!
 </code></pre>
+
+<p>我们这里调用了 两次 load ，发现 person.rb 被调用了两次。这说明 load 是不会判断文件是否已经加载，只是简单的加载并运行了内容。</p>
+
+<p>换言之我们可以自己山寨一个 load 方法来达到同样的目的：</p>
 
 
   <p>
@@ -189,15 +193,15 @@ My name is 金将军 and I&#39;m 30 years old!
 
 <p>比如当年的仙剑奇侠传（最初的狂徒工作室，因为仙剑销量不佳解散）：</p>
 
-<p><img src="https://writingsio.s3.amazonaws.com/attachments/5157c5354017a4ee94000005/4a2e9947de3ebc3202b66419bef9c749/418193.jpg" /></p>
+<p><img src="/images/xianjian.jpg?1436617861" /></p>
 
 <p>又比如后来的 QuickSilver(以前是收费的，由于购买正版的用户并不多，作者将其开源了。)</p>
 
-<p><img src="https://writingsio.s3.amazonaws.com/attachments/5157c68e4017a4ee94000006/1c0c923fb3fc3458173b73396da1e19d/quicktunes.png" /></p>
+<p><img src="/images/quicksilver.png?1436617861" /></p>
 
 <p>然后是即将逝去的Google Reader.</p>
 
-<p><img src="https://writingsio.s3.amazonaws.com/attachments/5157e0294017a4374800003d/da2b015c8f4747cc20005091130e950e/20130327110920184.jpg" /></p>
+<p><img src="/images/googlereader.jpg?1436617861" /></p>
 
 <p>这不经会让我想到这是为什么？下一个又是谁呢？每次想到这种问题，我总是会不寒而栗。我能不能阻止我喜欢的软件就在我面前这样死掉？</p>
 
@@ -217,6 +221,10 @@ My name is 金将军 and I&#39;m 30 years old!
 <p>是的，为了避免惨剧的再次发生，你必须要思考这个问题。</p>
 
 <p>我这里就以Google Reader为例，其实我想你和我一样知道，Google Reader基本是没有什么盈利模式的。首先它不收钱，其次它偶尔有段时间放了点几乎没人点的广告在不显眼的地方。归根结底，它是一个靠其他项目养着的项目。如果这种项目出自一个Google这样的上市大型公司，那么它迟早都会被关掉。</p>
+
+<h4>为什么？大公司不是不缺钱吗？Google运营个Reader怎么了？</h4>
+
+<p>我已经不止一次的听到过Google不缺钱，Google是个有着理想主义色彩的公司的论调了。其实我想说，一个上市公司的唯一理想就是（也应该是）让股东利益最大化。一切和这个背道而驰的理想都应该砍掉。和你现在公司缺不缺钱根本就不应该有关系。所以Google砍掉Reader理所当然，要怪只能怪我们当时没选对，或者说他没给我们机会付他钱。</p>
 
 
   <p>
@@ -418,7 +426,7 @@ My name is 金将军 and I&#39;m 30 years old!
     
     <footer>
       <div class="copyright">
-        <p>&copy;2013 Terry Tai</p>
+        <p>&copy;2015 Terry Tai</p>
       </div>
     </footer>
 

@@ -36,8 +36,8 @@
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link href="/stylesheets/application.css?1436611754" media="screen" rel="stylesheet" type="text/css" />
-    <script src="/javascripts/application.js?1436611753" type="text/javascript"></script>
+    <link href="/stylesheets/application.css?1436617864" media="screen" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/application.js?1436617864" type="text/javascript"></script>
 
   </head>
   <body class="404">
@@ -233,7 +233,7 @@
     
     <footer>
       <div class="copyright">
-        <p>&copy;2013 Terry Tai</p>
+        <p>&copy;2015 Terry Tai</p>
       </div>
     </footer>
 
