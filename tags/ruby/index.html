@@ -36,8 +36,8 @@
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link href="/stylesheets/application.css?1436621825" media="screen" rel="stylesheet" type="text/css" />
-    <script src="/javascripts/application.js?1436621825" type="text/javascript"></script>
+    <link href="/stylesheets/application.css?1460599194" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/application.js?1460599197" type="text/javascript"></script>
 
   </head>
   <body class="tags tags_ruby tags_ruby_index">
@@ -73,7 +73,6 @@
         <h1 class="tag-page-title">Articles tagged '<em>ruby</em>'</h1>
 
 <div id="posts">
-  
     <article class="post">
       <header>
   <h2 class="title">
@@ -95,19 +94,15 @@
       Apr 26, 2013
     </li>
     <li class="tags">
-      
         <a href="/tags/ruby">ruby</a>
-      
         <a href="/tags/require">require</a>
-      
         <a href="/tags/load">load</a>
-      
     </li>
   </ul>
 </aside>
 
 <div class="content">
-  <p><img src="/images/shanzhai.jpg?1436617861" /></p>
+  <p><img src="/images/shanzhai.jpg?1436617861"></p>
 
 <p>前几天被一个初学 Ruby 的同学问及 require 和 load 有什么区别。后来想想这个问题虽然答案并不难，但是还可以引申出不少可以探讨的内容。所以我打算通过山寨一个 require 和 load 的方法的形式，来阐述一些内容。</p>
 
@@ -123,12 +118,12 @@
   end
 
   def to_s
-    &quot;My name is #{name} and I&#39;m #{age} years old!&quot;
+    "My name is #{name} and I'm #{age} years old!"
   end
 
 end
 
-person = Person.new(&quot;金将军&quot;, 30)
+person = Person.new("金将军", 30)
 puts person.to_s
 </code></pre>
 
@@ -139,18 +134,23 @@ puts person.to_s
 <pre><code># -*- coding: utf-8 -*-
 # try_load_require.rb
 
-load &#39;./person.rb&#39;
-load &#39;./person.rb&#39;
+load './person.rb'
+load './person.rb'
 
 $ ruby try_load_require.rb
-My name is 金将军 and I&#39;m 30 years old!
-My name is 金将军 and I&#39;m 30 years old!
+My name is 金将军 and I'm 30 years old!
+My name is 金将军 and I'm 30 years old!
 </code></pre>
 
 <p>我们这里调用了 两次 load ，发现 person.rb 被调用了两次。这说明 load 是不会判断文件是否已经加载，只是简单的加载并运行了内容。</p>
 
 <p>换言之我们可以自己山寨一个 load 方法来达到同样的目的：</p>
 
+<pre><code># -*- coding: utf-8 -*-
+# try_load_require.rb
+
+def load(file_with_path)
+  puts "这是山寨load...</code></pre>
 
   <p>
     ......
@@ -162,13 +162,8 @@ My name is 金将军 and I&#39;m 30 years old!
 
     </article>
   
-  
-  
     <ul class="pager">
-      
-      
     </ul>
-  
 </div>
 
       </div>
@@ -176,7 +171,7 @@ My name is 金将军 and I&#39;m 30 years old!
     
     <footer>
       <div class="copyright">
-        <p>&copy;2015 Terry Tai</p>
+        <p>&copy;2016 Terry Tai</p>
       </div>
     </footer>
 

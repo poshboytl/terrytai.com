@@ -36,8 +36,8 @@
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link href="/stylesheets/application.css?1436621825" media="screen" rel="stylesheet" type="text/css" />
-    <script src="/javascripts/application.js?1436621825" type="text/javascript"></script>
+    <link href="/stylesheets/application.css?1460599194" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/application.js?1460599197" type="text/javascript"></script>
 
   </head>
   <body class="tags tags_refactor tags_refactor_index">
@@ -73,7 +73,6 @@
         <h1 class="tag-page-title">Articles tagged '<em>refactor</em>'</h1>
 
 <div id="posts">
-  
     <article class="post">
       <header>
   <h2 class="title">
@@ -95,9 +94,7 @@
       Mar 30, 2013
     </li>
     <li class="tags">
-      
         <a href="/tags/refactor">refactor</a>
-      
     </li>
   </ul>
 </aside>
@@ -119,6 +116,15 @@
 
 <p>    <a href="https://speakerdeck.com/poshboytl/refactoring-re-education">https://speakerdeck.com/poshboytl/refactoring-re-education</a></p>
 
+<h3>总结和解释：</h3>
+
+<p>其中有几点需要注意一下:</p>
+
+<ol>
+<li> 一般在做重构的时候，特别是重构规模比较大的时候。通常内部接口是会发生变化的，所以unit tests通常是会failed的，而integration tests将是你正确重构下去的基础和保证。所以如果项目没有integration tests. 在重构之前添加上还是很有必要的。</li>
+<li> Rspec or Cucumber都是写 integration tests 不错的选择，这取决于你团队的爱好。我选择 Rspec + Capybara只是一个个人爱好问题。</li>
+<li> “Slim controllers...</li>
+</ol>
 
   <p>
     ......
@@ -130,13 +136,8 @@
 
     </article>
   
-  
-  
     <ul class="pager">
-      
-      
     </ul>
-  
 </div>
 
       </div>
@@ -144,7 +145,7 @@
     
     <footer>
       <div class="copyright">
-        <p>&copy;2015 Terry Tai</p>
+        <p>&copy;2016 Terry Tai</p>
       </div>
     </footer>
 

@@ -36,8 +36,8 @@
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link href="/stylesheets/application.css?1436621825" media="screen" rel="stylesheet" type="text/css" />
-    <script src="/javascripts/application.js?1436621825" type="text/javascript"></script>
+    <link href="/stylesheets/application.css?1460599194" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/application.js?1460599197" type="text/javascript"></script>
 
   </head>
   <body class="tags tags_hubot tags_hubot_index">
@@ -73,7 +73,6 @@
         <h1 class="tag-page-title">Articles tagged '<em>hubot</em>'</h1>
 
 <div id="posts">
-  
     <article class="post">
       <header>
   <h2 class="title">
@@ -95,11 +94,8 @@
       Mar 29, 2013
     </li>
     <li class="tags">
-      
         <a href="/tags/ci">ci</a>
-      
         <a href="/tags/hubot">hubot</a>
-      
     </li>
   </ul>
 </aside>
@@ -115,10 +111,18 @@
 
 <p>主要要达到的效果是，我们能从irc里让mm就告诉我们现在 CI server 的状况。并且可以很方便通过mm触发我们的build。如图：</p>
 
-<p><img src="https://writingsio.s3.amazonaws.com/attachments/51564b134017a4de4000002f/5502d1f4e0a6e355ecbcb193b76f7fa5/hubot1.png" /></p>
+<p><img src="https://writingsio.s3.amazonaws.com/attachments/51564b134017a4de4000002f/5502d1f4e0a6e355ecbcb193b76f7fa5/hubot1.png"></p>
 
-<p><img src="https://writingsio.s3.amazonaws.com/attachments/51564cb94017a4410d0001ae/d692ed10d07064b7fbd74c87fda5637a/hubot2.png" /></p>
+<p><img src="https://writingsio.s3.amazonaws.com/attachments/51564cb94017a4410d0001ae/d692ed10d07064b7fbd74c87fda5637a/hubot2.png"></p>
 
+<h3>代码：</h3>
+
+<p>要达到这样的功能我们只需要写一个新的hubot-script即可。请让我先把代码贴出来。</p>
+
+<pre><code># Track the status and trigger buid for hudson CI.
+#
+# ci list all/projects - list all the projects on Hudson
+# ci status &lt;project name&gt; - see a project...</code></pre>
 
   <p>
     ......
@@ -130,13 +134,8 @@
 
     </article>
   
-  
-  
     <ul class="pager">
-      
-      
     </ul>
-  
 </div>
 
       </div>
@@ -144,7 +143,7 @@
     
     <footer>
       <div class="copyright">
-        <p>&copy;2015 Terry Tai</p>
+        <p>&copy;2016 Terry Tai</p>
       </div>
     </footer>
 

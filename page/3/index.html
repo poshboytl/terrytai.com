@@ -36,11 +36,11 @@
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link href="/stylesheets/application.css?1436605698" media="screen" rel="stylesheet" type="text/css" />
-    <script src="/javascripts/application.js?1436605698" type="text/javascript"></script>
+    <link href="/stylesheets/application.css?1460599194" rel="stylesheet" type="text/css" />
+    <script src="/javascripts/application.js?1460599197" type="text/javascript"></script>
 
   </head>
-  <body class="tags tags_teahour tags_teahour_index">
+  <body class="page page_3 page_3_index">
     <aside class="sidebar">
       <h1 class="site-name"><a href="/">Terry</a></h1>
       <nav class="global-nav">
@@ -70,21 +70,18 @@
 
     <section class="main">
       <div class="container">
-        <h1 class="tag-page-title">Articles tagged '<em>teahour</em>'</h1>
-
-<div id="posts">
-  
+        <div id="posts">
     <article class="post">
       <header>
   <h2 class="title">
-    <a href="/sponsor-teahour">Teahour.FM 为什么需要钱？</a>
+    <a href="/integrated-hubot-and-hudson-ci">集成 Hubot 和 Hudson CI</a>
   </h2>
 </header>
 
 <aside class="aside-block">
   <ul class="meta">
     <!-- <li class="author-photo">
-      <a href="http://terrytai.com">
+      <a href="http://terrytai.me">
         <img src="/images/terrytai.png?1392187460" />
       </a>
     </li>
@@ -92,59 +89,59 @@
      by Terry Tai
     </li> -->
     <li class="date">
-      Feb 27, 2014
+      Mar 29, 2013
     </li>
     <li class="tags">
-      
-        <a href="/tags/teahour">teahour</a>
-      
-        <a href="/tags/podcast">podcast</a>
-      
+        <a href="/tags/ci">ci</a>
+        <a href="/tags/hubot">hubot</a>
     </li>
   </ul>
 </aside>
 
 <div class="content">
-  <p><strong><a href="http://teahour.fm/">Teahour.FM</a></strong> 最近宣布了希望寻求赞助的事情，得到很多朋友的关心和帮忙。同时也有很多朋友问了不少问题，由于问题大多也比较趋同，所以我就写一篇博客统一回答一下吧。</p>
+  <p>首先要感谢 Github 创造了 Hubot，而且还将其开源。我相信这样如此有趣且如此具有geek血统的东西，只有在类似 Gitbub这样充满geek文化且环境宽松的公司里才能被创造出来。</p>
 
-<p><strong>Q: 为什么以前 Teahour.FM 都不需要赞助，现在突然需要了？</strong></p>
+<p>很荣幸的是我也能在 Intridea 这样一个环境非常宽松且充满geeks的环境里工作。所以，在Hubot开源的第一时间，咱们的 Dingding 和 Jan 就各自架了自己的 ircbot 并开发了新功能，然后入住到我们平时工作的 irc channel (是的，你没有看错，我们通过irc交流，当然这包括工作和“感情”。)</p>
 
-<p>A: 最初建立 Teahour.FM 的初衷非常简单，就是贡献和好玩，这两个因素缺一不可。我们的核心成员里大多是 Podcast 忠实用户，但又觉得国内没有专门针对程序员的 Podcast, 于是我们就想搞一个试试。结果这一试没想到就小火了一把，很快成为了苹果 iTunes 封面首推的 Podcast, 并且还荣获 “iTunes 中国 2013 最佳” 的称号。这一方面让我们非常开心，另一方面我们也倍感压力。我们深知，我们做节目还很不专业，声音质量欠佳，剪辑相对粗糙，始终没有推出 transcript, 网站功能迟迟没有改进，社区一直没有建立起来（和用户互动不足）。要解决这些问题实际上都需要大量的时间，而我们每位主播已经把大量的业余时间用在了节目的筹备，调研，采访，后期剪辑，shownotes 整理，发布，宣传。（平均一期节目至少要花费一个主播1天多的时间），这对于都还在创业期间的 5位主播来讲已经算是极限了，我们很难再要求我们的主播可以贡献更多的时间出来做这些事情。所以我们希望能寻求赞助，把钱用于解决上面我们提到的问题，更进一步把 Teahour.FM 做得更好。</p>
+<p>他们的两个bot一个叫mm(妹妹), 一个叫gg(哥哥)。这直接造成的结果就是所有 Intridean 的员工就像全民调戏 Siri 一样，只对mm感兴趣,于是gg的新功能就被忽略了。这直接导致了我们立即merge两个bot的功能，然后只允许mm的存在。</p>
 
-<p><strong>Q: 赞助的钱具体用在什么地方？</strong></p>
+<p>为了更好的“调戏”mm并且提高我们的工作效率，再加上对 Hubot 以及 CoffeeScript（ Hubot 是由 CoffeeScript with Node 写的）的好奇。我决定再为我们的mm加一个新功能。就是和我们的 Hudson CI 服务器做一些集成。</p>
 
-<p>A: 费用主要是用于两方面：</p>
+<p>主要要达到的效果是，我们能从irc里让mm就告诉我们现在 CI server 的状况。并且可以很方便通过mm触发我们的build。如图：</p>
 
-<ol>
-<li>购买设备。你可能很难想象我们用的还是苹果的 EarPods 自带话筒来进行录音。这个话筒不是近距离话筒，所以外面稍有风吹草动，节目里你都能听得清清楚楚。而且那个话筒很容易摩擦到衣服的领口，那种声音真是怒斩白细胞，且后期难以处理掉。</li>
-</ol>
+<p><img src="https://writingsio.s3.amazonaws.com/attachments/51564b134017a4de4000002f/5502d1f4e0a6e355ecbcb193b76f7fa5/hubot1.png"></p>
 
+<p><img src="https://writingsio.s3.amazonaws.com/attachments/51564cb94017a4410d0001ae/d692ed10d07064b7fbd74c87fda5637a/hubot2.png"></p>
+
+<h3>代码：</h3>
+
+<p>要达到这样的功能我们只需要写一个新的hubot-script即可。请让我先把代码贴出来。</p>
+
+<pre><code># Track the status and trigger buid for hudson CI.
+#
+# ci list all/projects - list all the projects on Hudson
+# ci status &lt;project name&gt; - see a project...</code></pre>
 
   <p>
     ......
   </p>
   <p>
-    <a href="/sponsor-teahour">阅读全文 →</a>
+    <a href="/integrated-hubot-and-hudson-ci">阅读全文 →</a>
   </p>
 </div>
 
     </article>
-  
-  
-  
-    <ul class="pager">
-      
-      
-    </ul>
-  
-</div>
 
+    <ul class="pager">
+        <li class="previous"><a href="/page/2">&larr; Newer</a></li>
+    </ul>
+</div>
       </div>
     </section>
     
     <footer>
       <div class="copyright">
-        <p>&copy;2013 Terry Tai</p>
+        <p>&copy;2016 Terry Tai</p>
       </div>
     </footer>
 
