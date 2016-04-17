@@ -99,4 +99,7 @@ BTW, 有空的时候看看这两家公司的东西，开源项目也好，blog�
 
 [上一期 Teahour.fm](http://teahour.fm/2013/08/21/strikingly-yc-and-startup.html) 我们采访的 [Striking.ly](https://www.strikingly.com/) 团队正在招收 Rails 后端程序员。他们要求前两个月去公司上班，以后都可以在家SOHO。此团队极其靠谱是第一个获得[Y-Combinator](http://ycombinator.com/)投资的中国团队。如果你也是个靠谱的家伙，你可以和我取得联系，我可以帮你做推荐。当然，你也可以直接上 :)
 
-最后无耻小广告一枚: 远程工作一定要用好的项目协作工具，看看我们家的 [Pragmatic.ly](https://pragmatic.ly) 吧。你一定会喜欢的 ;)
+
+**我开公众账号啦! 以后更新将在我的公众账号 Remote 首发, 此公众账号会聊关于远程工作的方方面面, 欢迎关注.**
+
+![Remote 公众账号](qrcode_for_gh_eb28e07fed00_344.jpg)
