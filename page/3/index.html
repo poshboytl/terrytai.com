@@ -74,6 +74,68 @@
     <article class="post">
       <header>
   <h2 class="title">
+    <a href="/a-refactor-session-for-re-education-in-thoughtworks">A Refactor Session For Re-education In ThoughtWorks</a>
+  </h2>
+</header>
+
+<aside class="aside-block">
+  <ul class="meta">
+    <!-- <li class="author-photo">
+      <a href="http://terrytai.me">
+        <img src="/images/terrytai.png?1392187460" />
+      </a>
+    </li>
+    <li class="author">
+     by Terry Tai
+    </li> -->
+    <li class="date">
+      Mar 30, 2013
+    </li>
+    <li class="tags">
+        <a href="/tags/refactor">refactor</a>
+    </li>
+  </ul>
+</aside>
+
+<div class="content">
+  <h3>背景：</h3>
+
+<p>前段时间受成都社区Lite的邀请，参与了<a href="https://github.com/twers/re-education">Re-education</a>的一些重构工作。这个项目是一个公益项目，它是一个老师的协作和交流平台，帮助老师更好的设计课程，从而让更多学校的学生受益。说来这也是我第一次参与公益项目的开发，也算是对公益事业尽一些绵薄之力吧。</p>
+
+<p>这个项目目前已经上线<a href="http://newclass.org/">openclass.org</a>, 并且代码也已经<a href="https://github.com/twers/re-education">开源</a>。</p>
+
+<p>之前这个项目主要是由 ThoughWorks 成都的几个工程师在负责开发和设计。同样也非常敬佩他们对公益事业的热衷和支持。</p>
+
+<p>整个重构过程有我，<a href="http://yedingding.com/">Dingding</a>, Soloara参与，目前Rails端的重构， 已经基本告一段落。 而后我要离开成都一段时间，所以离开之前在ThoughtWorks做了一个Presentation。总结了一下整个重构过程，希望能对整个项目组有一定的帮助。</p>
+
+<p>BTW: 还要特别感谢 Dingding 同学做了一次 Live Show 讲解重构代码中的一些细节。此次<a href="http://railscasts-china.com/episodes/refactor-openclass-by-dingding">Live Show的视频</a>也已经在<a href="http://railscasts-china.com/">Railscasts-china</a>发布了。</p>
+
+<p>Keynote：</p>
+
+<p>    <a href="https://speakerdeck.com/poshboytl/refactoring-re-education">https://speakerdeck.com/poshboytl/refactoring-re-education</a></p>
+
+<h3>总结和解释：</h3>
+
+<p>其中有几点需要注意一下:</p>
+
+<ol>
+<li> 一般在做重构的时候，特别是重构规模比较大的时候。通常内部接口是会发生变化的，所以unit tests通常是会failed的，而integration tests将是你正确重构下去的基础和保证。所以如果项目没有integration tests. 在重构之前添加上还是很有必要的。</li>
+<li> Rspec or Cucumber都是写 integration tests 不错的选择，这取决于你团队的爱好。我选择 Rspec + Capybara只是一个个人爱好问题。</li>
+<li> “Slim controllers...</li>
+</ol>
+
+  <p>
+    ......
+  </p>
+  <p>
+    <a href="/a-refactor-session-for-re-education-in-thoughtworks">阅读全文 →</a>
+  </p>
+</div>
+
+    </article>
+    <article class="post">
+      <header>
+  <h2 class="title">
     <a href="/integrated-hubot-and-hudson-ci">集成 Hubot 和 Hudson CI</a>
   </h2>
 </header>

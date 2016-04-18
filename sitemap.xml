@@ -67,122 +67,134 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://terrytai.me/setup-by-ashchan</loc>
+    <lastmod>2016-04-18T17:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://terrytai.me/404.html</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>http://terrytai.me/</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>http://terrytai.me/profile</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/ci</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/hubot</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/refactor</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/podcast</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/software</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/ruby</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/require</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/load</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/soho</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/remote</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/work</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/freelance</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/english</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/conference</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/tags/teaching</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://terrytai.me/tags/setup</loc>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://terrytai.me/page/2</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>http://terrytai.me/page/3</loc>
-    <lastmod>2016-04-17T00:00:00+08:00</lastmod>
+    <lastmod>2016-04-18T00:00:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
