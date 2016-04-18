@@ -10,11 +10,12 @@ author: terry
 
 ## 自我介绍
 
+![ashchan](ashchan.jpg)
+
 我是 ashchan，一名 Web 和 Mobile 全栈开发者和软件咨询师。我做过 8 年 Freelancer，经历过几家不甚了了的创业公司。目前旅居日本，于 2015 年创办了自己的软件咨询公司 [Centax, Inc.](https://www.centax.jp/en)（接地气的说，公司主营外包开发业务）。
 
 作为一名很不合格的 CEO，我每天 70% 的工作还是写代码。
 
-![ashchan](ashchan.jpg)
 
 ## 硬件装备
 
