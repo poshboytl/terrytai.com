@@ -1,5 +1,5 @@
 ---
-title: "程序员装备系列之 hpyhacking"
+title: "程序员装备系列之云币邱亮"
 date: 2016-05-03 13:00 +08:00
 tags: setup, remote
 author: terry
