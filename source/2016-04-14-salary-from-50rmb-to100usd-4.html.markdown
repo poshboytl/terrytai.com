@@ -5,7 +5,7 @@ tags: soho, remote, work, freelance, english
 author: terry
 ---
 
-![tj.jpg](tj.jpg)
+![tj.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/tj.jpg)
 
 这是一篇迟到了两年的更新, 这两年陆陆续续收到了很多人给我回复”太监”. 其实我当时还并不知道用“太监”来形容"无下”文的梗, 所以我还专门挑选了几个读者给他们回信, 并好奇的问道: “朋友, 你是怎么知道小学别人给我起的外号的?”. 读者当然是一头雾水, 并给我解释了”太监”只是说文章, 没有说我之意.
 
@@ -22,14 +22,14 @@ author: terry
 事件一: 和李华顺的面基
 =======
 
-![李华顺](huacnlee.jpg)
+![李华顺](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/huacnlee.jpg)
 
 李华顺(huacnlee)的作品挺多的, 是个非常优秀的 Ruby/Rails 工程师. 他的详细信息可以参看他的[个人网站](http://huacnlee.com/). 简单的介绍他是 [RubyChina](https://ruby-china.org/) 的创始人加管理员之一, Ruby gems 在中国的镜像也是他搭建的 https://ruby.taobao.org (后来更新为 https://gems.ruby-china.org), 他为中国的 Ruby 社区做出了很多的贡献.
 
 他和我差不多同龄, 当时也是在成都用 Ruby/Rails 做开发, 是他们 Ruby 组的 team leader. 当然, 我那时也是我们公司 Ruby 组的 team leader. 所不同的是, 他除了自己还有别的人可以 lead, 而我只有自己可以 lead. 我们的认识是通过网络. 常会在网上讨论讨论技术问题, 毕竟那时圈子太小, 没什么人可以讨论, 所以能抓住一个那真是非常开心. 虽然彼此都在成都, 却未曾蒙面. 一直到他透露出一点微弱的想换工作之意, 我才立马忽悠他来我们公司, 因为我一个人写 Rails 实在是太寂寞了. 这种感觉犹如冷宫里关了几年的嫔妃, 突然看到一个热爱 Rails 的精壮男儿, 那小心脏扑通扑通跳得厉害, 真叫一个野猪乱撞… 在我再三 “安利”, “玫琳凯”, “康宝莱” 之下, 他终于决定来面试了.
 
 
-![god.jpg](god.jpg)
+![god.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/god.jpg)
 
 那天, 成都的天气格外的晴朗, 朵朵白云很不真实的挂在碧蓝的天空上, 这种晴朗在成都是极其少见的, 这是一个 95% 都是阴天的城市. 所以显然 God 导演为了这场戏做出了些特别的安排.
 
@@ -41,7 +41,7 @@ author: terry
 领着华顺来到办公室, 带领他简单的参观了一下当时还未曾流行起来的”开放式”办公环境, 然后就立马把他领到了”小房间”, 开始了我们的”深入交流”. 虽然我们是第一次见面, 但其实我们早已是你知我长短, 我知你深浅了. 所以所谓的技术面试, 就完全是走一个形式罢了. 我们谈论更多的是技术发展以及个人发展的问题, 我也给他分享了一些去参加 Ruby Conf 的见闻, 得出了一个共同的结论, 当时成都的 Ruby/Rails 环境, 相比上海真的是差得太远. 成都这边应该也抱起团来, 至少应该开始组织社区活动, 把优秀的工程师给集中起来. 我也同时透露了想打造成都 No. 1 Ruby 团队的想法, 所以非常希望他能加入一起建设这个团队.
 
 
-![srjl.jpg](srjl.jpg)
+![srjl.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/srjl.jpg)
 
 我们”深入交流”长达两个小时, 累得已是两脚发软，拖着疲惫的身躯, 还是把华顺送上了车. 累是累，但内心还暗喜, 以后有望打造成都最好的 Ruby 团队了. 之后我给我的老板和HR对华顺大加赞赏, 说是到目前为止公司面试过的技术最优秀的工程师了, 心想简直稳得不行. 犹如敌法, 幽鬼, 虚空, 幻刺, 火枪的近卫20分钟破了对方三路, 告诉我怎么输? 当然, 除了第一轮的技术面试, 后面还需要被 HR 和 CEO 面试, 一共是三轮. 所以我还需要在耐心的等待一段时间.
 
@@ -71,7 +71,7 @@ Daniel 这个童鞋非常热心, 现在看来，说他是社区第一知心哥�
 涉及技术，他在异地的生活， 我在公司的经历.... 无所不谈....
 
 
-![Intridea](intridea.jpg)
+![Intridea](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/intridea.jpg)
 
 当我们已畅谈了有半个来小时后, 他突然问了我一个问题, 如果有一个机会可以让我不用离开家乡, 但是又能和一群世界范围内顶尖的 Ruby 工程师一起工作, 我有没有兴趣.
 
@@ -124,7 +124,7 @@ Project Experience：
 ....
 
 
-![面试](interview.jpg)
+![面试](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/interview.jpg)
 
 简历发出的第三天我就收到了面试通知, 面试是在线通过 Skype 进行的. 第一个面试我的是 Intridea 在中国的第一个员工 --- Dingding, 他后来成为了我的创业合伙人. Dingding 是一个说话特别简短的人, 所以他问问题通常都极度简洁但又切中要害, 所以整个过程 90% 都是我在说话, 但是由于我还算健谈. 所以整个过程还是非常的 nice, 我觉得正是我们的互补, 为我们后来的基情埋下了深深的伏笔....
 
@@ -254,4 +254,4 @@ WTF? 20美元/小时.... 每天八个小时? 立马打开 Google 查了一下当
 
 **我开公众账号啦! 以后更新将在我的公众账号 Remote 首发, 此公众账号会聊关于远程工作的方方面面, 欢迎关注.**
 
-![Remote 公众账号](qrcode_for_gh_eb28e07fed00_344.jpg)
+![Remote 公众账号](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/qrcode_for_gh_eb28e07fed00_344.jpg)
