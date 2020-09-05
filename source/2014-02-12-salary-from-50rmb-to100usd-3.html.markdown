@@ -5,7 +5,7 @@ tags: soho, remote, work, freelance, conference, teaching
 author: terry
 ---
 
-![roushan.jpg](roushan.jpg)
+![roushan.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/roushan.jpg)
 
 接上篇: [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (2)](/salary-from-50rmb-to-100usd-2)
 
@@ -15,7 +15,7 @@ author: terry
 
 在学校准备毕业设计期间，一个偶然的机会遇到了以前教我Java的严老师。于是聊到了我实习期间一些情况，当时我对Rails大加赞赏，并和他讨论了不少细节，想说明这是一个真的不错的技术。他也听得津津有味，觉得很感兴趣，特别是对它的开发效率，所以他也在考虑是不是可以在自己的项目里用一用, 也会推荐他的学生看一看。
 
-![mala.jpg](mala.jpg)
+![mala.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/mala.jpg)
 
 说来也巧那天刚聊完我回到寝室，就有几个同学和几个学弟来找我，听说我实习一直在做 Rails 开发，希望我能教教他们Rails。我当时很爽快的答应了，一方面是因为那段时间也相对轻松，另一方面，我倒是也想考验一下自己，是不是可以把一个自己知道的东西清楚的讲给他人听。何况能帮助到几个朋友了解一门我喜欢的技术那也算是一件不错的事情。当时我一直觉得自己从Rails社区索取太多，但是贡献不够。所以也把这一次的事情当成了一个回馈。谁知后来这事一传十，十传百，想要加入一起学习的同学越来越多，所以整个学习小组一起学习时看起来就像一个班在上课一样。
 
@@ -56,7 +56,7 @@ author: terry
 
 等那个课程结束也差不多是毕业前夕了，我继续回到了以前的公司全职的上班。不久也被提升为了当时Ruby组的 leader，还要负责当时的技术面试和新人培养。工资也给开了 4000 人民币/月。 这在那时的成都可是一个相当不错的价格了，而且那也算是我的第一次晋升，按理我应该高兴才对。但我却怎么也高兴不起来，工作没有以前的那种基情，哦不，激情。当然依然是保质保量的完成，只是内心中总是觉得不满足，有种撞到天花板的感觉，还有对现实还有很多不满足，或者说觉得还有很多更好的空间。
 
-![wcg.jpg](wcg.jpg)
+![wcg.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/wcg.jpg)
 
 正巧那段时间第一届 RubyConf China 要在上海举行。我当几乎不假思索的就定了票，而且内心有一种说不出的兴奋，这种感觉犹如一个职业选手要去参加WCG一般，让人兴奋不已，我一直想看看中国其他Ruby玩家到底是如何玩的，每天是怎么训练的, 于是找老板请三天假去上海参加这次Rubyconf.
 
@@ -66,13 +66,13 @@ Holy shit! 我已经不记得我当时的表情，但是我相信一定是非常
 
 那次上海之行我特别想见的有4个人，Ruby语言的创始人 Matz, **[JavaEye](http://www.iteye.com/)** 的创始人 **[Robbin Fan](http://robbinfan.com/)** 和 **[财帮子](http://www.caibangzi.com/)**的创始人 **[Robin Lu](http://www.robinlu.com/)**, 以及大会的发起人 **[Daniel Lv](http://lvguoning.com/)**.
 
-![matz.jpg](matz.jpg)
+![matz.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/matz.jpg)
 Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fan 和 Robin Lu 是当时中国Ruby社区里我最敬重的两位程序员 + 创业人。JavaEye 和 财帮子可谓是当时中国最大的两个用 Rails 写的网站（当时最有名的 Java 社区网站竟然是用 Ruby写的，是不是很有意思？），也是因为有这两个网站在中国才向很多人证明了，Rails 不只是玩具，它可以做大型的项目。（是的，那个年代，中国很多人的想法还停留在 Rails 就是玩具不能用于真实项目的年代。）
 
-![robbin.jpg](robbin.jpg)
+![robbin.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/robbin.jpg)
 想见他们还有一个理由是我和这两位罗宾以前还有些交情, 我大一下期（或者是大二上期，具体有点记不得了）的时候特别迷恋互联网，而且当时正是 Web 2.0 兴起的时候，我那时写过一段时间 Blog，内容主要是我对互联网和 Web 2.0的一些看法，所以取名为 "Terry 谈网"。 现在反过来看看以前自己写的内容，觉得很多想法其实挺幼稚的，不过我完全不后悔做了这事，因为至少我看到了自己以前的幼稚和后来的进步。 写了段时间后，发现自娱自乐已经不能满足我了，于是我想通过这个 Blog 认识更多志同道合的朋友（其实都应该算是前辈），和他们一起玩儿。所以我后来大多采用了采访的形式来写blog， 主要是采访业界一些不错的 Web 2.0网站的站长。 两位罗宾就是我采访过的对象，记得当时给这两位发邀请邮件之前心里都泛着嘀咕，“我一个屁学生，别人肯定都懒得搭理我。” ... 但是最终我还是说服自己去试试，毕竟如果失败了，我也没什么损失啊。（后来想想这个和追女生其实是一个道理嘛）
 
-![robin.jpg](robin.jpg)
+![robin.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/robin.jpg)
 
 关于 Robin Lu
 ===
@@ -117,4 +117,4 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 
 **我开公众账号啦! 以后更新将在我的公众账号 Remote 首发, 此公众账号会聊关于远程工作的方方面面, 欢迎关注.**
 
-![Remote 公众账号](qrcode_for_gh_eb28e07fed00_344.jpg)
+![Remote 公众账号](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/qrcode_for_gh_eb28e07fed00_344.jpg)

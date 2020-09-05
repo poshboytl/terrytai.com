@@ -5,7 +5,7 @@ tags: soho, remote, work, freelance, english
 author: terry
 ---
 
-![Monroe.jpg](Monroe.jpg)
+![Monroe.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/Monroe.jpg)
 
 接上篇: [我如何把薪水从 50人民币/天 提升到 100美元/小时的 (1)](/salary-from-50rmb-to-100usd)
 
@@ -20,7 +20,7 @@ author: terry
 
 并且告诉我, 好的工程师不是只会"追求极致", 而是懂得如何在 "质量" 和 "成本" 上 make a right trade-off.
 
-![focus.jpg](focus.jpg)
+![focus.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/focus.jpg)
 
 现在回忆起来, 这两个来月我是幸福的, 第一次体会到这种百分之百专注在一件事情上的快乐. 从早上一睁眼就无时无刻不在思考项目上的问题, 我的修改是不是让代码变得更好了? 这个地方如何抽取? 为什么先写测试会帮助我做出更好的设计? 为什么预计到变化这么大, 依然坚持重构而不是重写?....
 
@@ -36,7 +36,7 @@ author: terry
 
 我的英文当时可不算好, 用一些很庸俗的形容就是我以刚刚超过6分的水平稳稳的获得了英语四级荣誉证书(而且是第一次参考取得的成绩, 后来一次比一次差). 和大多数程序员一样, 读和写还凑合, 说只能算还行, 听那简直就是灾难, 再加之是通过Skype且在这种网路速度极其不靠谱国家, 我对信息的识别率最多也就是在 50% 不到. 本来如果只是回答这几个问题也还算好, 毕竟都比较简短, 即使别人说, 我也大概能猜到每个人在说些什么. 但是这客户总是不按规矩出牌, 他特别喜欢利用这个 Scrum meeting 的时间和大家聊聊家常, 还说很多功能上的细节, 对市场以及产品的看法(这些可都是大忌). 并且我严重怀疑他每次开会之前都嚼了颗炫迈口香糖... 那简直就是停不下来, 语速还相当惊人, 伴随着牙齿摩擦出的火花声音, 噼里啪啦的从 Skype 里断断续续的传过来...
 
-![love_letter.jpg](love_letter.jpg)
+![love_letter.jpg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/love_letter.jpg)
 
 我承认, 每当他说话我就开始打酱油了. 不过幸好的是... 我还有他: 我的老板是个ABC(American Born Chinese), 他英文远远比中文好得多. 所以他经常会充当翻译的角色, 而且他有个极其良好的习惯, 他每次会把会议的主要内容记录下来, 并以邮件的形式发给所有的参会人员.
 每次我收到这封邮件就犹如收到情书一般的兴奋, 内心中不停的浮现出四个字: "有你真好."
@@ -131,4 +131,4 @@ WTF, 我当时有一种被调戏的感觉, 而且感觉无比的强烈. 不亚�
 
 **我开公众账号啦! 以后更新将在我的公众账号 Remote 首发, 此公众账号会聊关于远程工作的方方面面, 欢迎关注.**
 
-![Remote 公众账号](qrcode_for_gh_eb28e07fed00_344.jpg)
+![Remote 公众账号](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/qrcode_for_gh_eb28e07fed00_344.jpg)

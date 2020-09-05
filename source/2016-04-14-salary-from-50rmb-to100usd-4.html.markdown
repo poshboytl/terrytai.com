@@ -55,7 +55,7 @@ Calvin 一如既往的准时到达, 简短的问候之后就开始了正题. 首
 事件二: 原来还有这样的公司
 ======
 
-![Daniel](daniel.png)
+![Daniel](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/daniel.png)
 
 那天心情大坏, 回家后立马在推特上发了句牢骚, 说自己想换工作了.. 结果没过几分钟收到了上次去 RubyConf China 认识的 Daniel 的回复. “这种事情可不好在推特上说，你前雇主看到可不好，你gtalk是什么？我和你私聊一下... ”.
 
