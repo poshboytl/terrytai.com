@@ -20,7 +20,7 @@ author: terry
 
 是的，如你看到的，没什么特别。你即使选择一家不允许在家上班的公司，你也仍然需要考虑这四个问题。但是区别在于你不用考虑如下问题了：
 
-![](/images/liuchuanfeng.jpg)
+![](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/liuchuanfeng.jpg)
 
 1.  不用考虑这个公司在哪个国家，哪个城市，哪个位置，离你家有多远。 （依稀记得，流川枫当年就因为这个选择了湘北）
 2.  不用考虑是否会因为公司在外地而被迫离开你的爱人或家人
@@ -102,4 +102,4 @@ BTW, 有空的时候看看这两家公司的东西，开源项目也好，blog�
 
 **我开公众账号啦! 以后更新将在我的公众账号 Remote 首发, 此公众账号会聊关于远程工作的方方面面, 欢迎关注.**
 
-![Remote 公众账号](qrcode_for_gh_eb28e07fed00_344.jpg)
+![Remote 公众账号](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/qrcode_for_gh_eb28e07fed00_344.jpg)

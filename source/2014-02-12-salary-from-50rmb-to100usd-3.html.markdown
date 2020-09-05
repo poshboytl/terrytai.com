@@ -90,7 +90,7 @@ Matz 就不说了， Ruby的开山鼻祖，必须是要围观的。而 Robbin Fa
 
 从上面的合照你应该不难猜到，最终我还是做到了！:)
 
-![daniel.jpeg](daniel.jpeg)
+![daniel.jpeg](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/daniel.jpeg)
 
 见 Daniel Lv 是因为我知道他是上海 Rails 社区的组织者，我想从他那里学习一下如何组织社区活动，想到成都来也组织组织活动，心想我们大成都当时虽然用 Rails 的少，但是组织一桌麻将的人总还是够的吧。
 

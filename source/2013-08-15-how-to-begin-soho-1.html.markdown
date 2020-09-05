@@ -5,7 +5,7 @@ tags: soho, remote, work, freelance
 author: terry
 ---
 
-![](/images/soho.jpg)
+![](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/soho.jpg)
 
 仔细算算自己在家上班已经有差不多4年了，所以回想起整个过程，只有一种感受，那就是再也回不去了。我相信很多在家工作多年的朋友也会有同样的感受，“自由”这东西一旦拥有就太难再放弃掉。
 
@@ -25,7 +25,7 @@ author: terry
 
 ### 做一名 Freelancer, 自己接项目
 
-![](/images/freelancer.jpg)
+![](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/freelancer.jpg)
 
 > Freelance这个词最早出现时是用来指称“中世纪的雇佣军骑士”，即“free-lance”; 随着时间推移，它慢慢被用于指称自由撰稿人(应该算自由职业中非常流行的行当，特别是在西方国家)，进而扩大至指称所有自由职业者们。
 >
@@ -114,4 +114,4 @@ TopCoder 看似是比赛，实际上他是通过比赛的形式来做外包，�
 
 **我开公众账号啦! 以后更新将在我的公众账号 Remote 首发, 此公众账号会聊关于远程工作的方方面面, 欢迎关注.**
 
-![Remote 公众账号](qrcode_for_gh_eb28e07fed00_344.jpg)
+![Remote 公众账号](https://raw.githubusercontent.com/poshboytl/terrytai.me/master/source/images/qrcode_for_gh_eb28e07fed00_344.jpg)
